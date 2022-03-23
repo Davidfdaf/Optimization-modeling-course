@@ -1,0 +1,727 @@
+CUSIP,Description,Rating,Underlying,Coupon,Type,Maturity,Next Call,Market
+24422EUR8,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,3.45,Fixed,2024-01-10,,Secondary
+313747AU1,FEDERAL REALTY INVESTMENT TRUST                                 ,Baa1/A-,-/-,3.95,Fixed,2024-01-15,C 10/23@ 100,Secondary
+949746RE3,WELLS FARGO & COMPANY                                           ,A3/BBB,-/-,4.48,Fixed,2024-01-16,,Secondary
+316773CP3,FIFTH THIRD BANCORP                                             ,Baa1/BBB,-/-,4.3,Fixed,2024-01-16,C 12/23@ 100,Secondary
+06051GFB0,BANK OF AMERICA CORPORATION                                     ,A2/A-,-/-,4.125,Fixed,2024-01-22,,Secondary
+693475AV7,PNC FINANCIAL SERVICES GROUP INC                                ,A3/A-,-/-,3.5,Fixed,2024-01-23,C 12/23@ 100,Secondary
+95000U2C6,WELLS FARGO & COMPANY                                           ,A1/BBB+,-/-,3.75,Fixed,2024-01-24,C 12/23@ 100,Secondary
+35137LAG0,FOX CORPORATION                                                 ,Baa2/BBB,-/-,4.03,Fixed,2024-01-25,C 12/23@ 100,Secondary
+316773CX6,FIFTH THIRD BANCORP                                             ,Baa1/BBB+,-/-,3.65,Fixed,2024-01-25,C 12/23@ 100,Secondary
+14040HCA1,CAPITAL ONE FINANCIAL CORPORATION                               ,Baa1/BBB,-/-,3.9,Fixed,2024-01-29,C 12/23@ 100,Secondary
+02209SAS2,"ALTRIA GROUP, INC.                                              ",A3/BBB,-/-,4.0,Fixed,2024-01-31,,Secondary
+46625HJT8,JPMORGAN CHASE & CO.                                            ,A2/A-,-/-,3.875,Fixed,2024-02-01,,Secondary
+10112RAW4,BOSTON PROPERTIES LIMITED PARTNERSHIP                           ,Baa1/BBB+,-/-,3.8,Fixed,2024-02-01,C 11/23@ 100,Secondary
+501044CY5,THE KROGER CO.                                                  ,Baa1/BBB,-/-,4.0,Fixed,2024-02-01,C 11/23@ 100,Secondary
+494550BS4,KINDER MORGAN ENERGY PARTNERS LP                                ,Baa2/BBB,-/-,4.15,Fixed,2024-02-01,C 11/23@ 100,Secondary
+828807CR6,"SIMON PROPERTY GROUP, L.P.                                      ",A3/A-,-/-,3.75,Fixed,2024-02-01,C 11/23@ 100,Secondary
+808513AY1,THE CHARLES SCHWAB CORPORATION                                  ,A2/A,-/-,3.55,Fixed,2024-02-01,C 1/24@ 100,Secondary
+06406HCS6,BANK OF NEW YORK MELLON CORPORATION                             ,A1/A,-/-,3.65,Fixed,2024-02-04,C 1/24@ 100,Secondary
+91159HHV5,U.S. BANCORP                                                    ,A2/A+,-/-,3.375,Fixed,2024-02-05,C 1/24@ 100,Secondary
+594918BX1,MICROSOFT CORPORATION                                           ,Aaa/AAA,-/-,2.875,Fixed,2024-02-06,C 12/23@ 100,Secondary
+037833CG3,APPLE INC.                                                      ,Aaa/AA+,-/-,3.0,Fixed,2024-02-09,C 12/23@ 100,Secondary
+459200HU8,INTERNATIONAL BUSINESS MACHINES CORPORATION                     ,A3/A-,-/-,3.625,Fixed,2024-02-12,,Secondary
+88579YBB6,3M COMPANY                                                      ,A1/A+,-/-,3.25,Fixed,2024-02-14,C 1/24@ 100,Secondary
+91324PDM1,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,3.5,Fixed,2024-02-15,,Secondary
+437076BC5,"THE HOME DEPOT, INC.                                            ",A2/A,-/-,3.75,Fixed,2024-02-15,C 11/23@ 100,Secondary
+29379VBB8,ENTERPRISE PRODUCTS OPERATING LLC                               ,Baa1/BBB+,-/-,3.9,Fixed,2024-02-15,C 11/23@ 100,Secondary
+38141GXE9,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.625,Fixed,2024-02-20,C 1/24@ 100,Secondary
+025816CC1,AMERICAN EXPRESS COMPANY                                        ,A3/BBB+,-/-,3.4,Fixed,2024-02-22,C 1/24@ 100,Secondary
+02079KAB3,ALPHABET INC.                                                   ,Aa2/AA+,-/-,3.375,Fixed,2024-02-25,,Secondary
+452308AT6,ILLINOIS TOOL WORKS INC.                                        ,A2/A+,-/-,3.5,Fixed,2024-03-01,C 12/23@ 100,Secondary
+713448CM8,"PEPSICO CAPITAL RESOURCES, INC.                                 ",A1/A+,-/-,3.6,Fixed,2024-03-01,C 12/23@ 100,Secondary
+907818FA1,UNION PACIFIC CORPORATION                                       ,Baa1/A-,-/-,3.15,Fixed,2024-03-01,C 2/24@ 100,Secondary
+38141GVM3,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,4.0,Fixed,2024-03-03,,Secondary
+17275RAN2,"CISCO SYSTEMS, INC.                                             ",A1/AA-,-/-,3.625,Fixed,2024-03-04,,Secondary
+96950FAM6,WILLIAMS PARTNERS L.P.                                          ,Baa2/BBB,-/-,4.3,Fixed,2024-03-04,C 12/23@ 100,Secondary
+24422EUX5,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,2.6,Fixed,2024-03-07,,Secondary
+58933YAU9,"MERCK & CO., INC                                                ",A1/A+,-/-,2.9,Fixed,2024-03-07,C 2/24@ 100,Secondary
+19416QEG1,COLGATE-PALMOLIVE COMPANY                                       ,Aa3/AA-,-/-,3.25,Fixed,2024-03-15,,Secondary
+571748BF8,"MARSH & MCLENNAN COMPANIES, INC.                                ",Baa1/A-,-/-,3.875,Fixed,2024-03-15,C 2/24@ 100,Secondary
+717081ES8,PFIZER INC.                                                     ,A2/A+,-/-,2.95,Fixed,2024-03-15,C 2/24@ 100,Secondary
+09247XAL5,"BLACKROCK, INC.                                                 ",Aa3/AA-,-/-,3.5,Fixed,2024-03-18,,Secondary
+06051GFF1,BANK OF AMERICA CORPORATION                                     ,A2/A-,-/-,4.0,Fixed,2024-04-01,,Secondary
+57636QAB0,MASTERCARD INCORPORATED                                         ,A1/A+,-/-,3.375,Fixed,2024-04-01,,Secondary
+92936UAA7,W. P. CAREY INC                                                 ,Baa2/BBB,-/-,4.6,Fixed,2024-04-01,C 1/24@ 100,Secondary
+375558AW3,"GILEAD SCIENCES, INC.                                           ",A3/BBB+,-/-,3.7,Fixed,2024-04-01,C 1/24@ 100,Secondary
+12189LAR2,BURLINGTON NORTHERN SANTA FE LLC                                ,A3/AA-,-/-,3.75,Fixed,2024-04-01,C 1/24@ 100,Secondary
+86787EBC0,SUNTRUST BANK                                                   ,A2/A,-/-,3.2,Fixed,2024-04-01,C 3/24@ 100,Secondary
+59156RBH0,METLIFE INC.                                                    ,A3/A-,-/-,3.6,Fixed,2024-04-10,,Secondary
+26441CAN5,DUKE ENERGY CORP                                                ,Baa2/BBB,-/-,3.75,Fixed,2024-04-15,C 1/24@ 100,Secondary
+20030NCR0,COMCAST CORPORATION                                             ,A3/A-,-/-,3.7,Fixed,2024-04-15,C 3/24@ 100,Secondary
+931142DP5,"WAL-MART STORES, INC.                                           ",Aa2/AA,-/-,3.3,Fixed,2024-04-22,C 1/24@ 100,Secondary
+14040HBF1,CAPITAL ONE FINANCIAL CORPORATION                               ,Baa1/BBB,-/-,3.75,Fixed,2024-04-24,C 3/24@ 100,Secondary
+61746BDQ6,MORGAN STANLEY                                                  ,A1/BBB+,-/-,3.875,Fixed,2024-04-29,,Secondary
+693475AP0,PNC FINANCIAL SERVICES GROUP INC                                ,A3/BBB+,-/-,3.9,Fixed,2024-04-29,C 3/24@ 100,Secondary
+28370TAG4,KINDER MORGAN ENERGY PARTNERS LP                                ,Baa2/BBB,-/-,4.3,Fixed,2024-05-01,C 2/24@ 100,Secondary
+718172CH0,PHILIP MORRIS INTERNATIONAL INC.                                ,A2/A,-/-,2.875,Fixed,2024-05-01,C 4/24@ 100,Secondary
+037833AS9,APPLE INC.                                                      ,Aaa/AA+,-/-,3.45,Fixed,2024-05-06,,Secondary
+037833CU2,APPLE INC.                                                      ,Aaa/AA+,-/-,2.85,Fixed,2024-05-11,C 3/24@ 100,Secondary
+458140BD1,INTEL CORPORATION                                               ,A1/A+,-/-,2.875,Fixed,2024-05-11,C 3/24@ 100,Secondary
+46625HJX9,JPMORGAN CHASE & CO.                                            ,A2/A-,-/-,3.625,Fixed,2024-05-13,,Secondary
+459200JY8,INTERNATIONAL BUSINESS MACHINES CORPORATION                     ,A3/A-,-/-,3.0,Fixed,2024-05-15,,Secondary
+00440EAR8,ACE INA HOLDINGS INC.                                           ,A3/A,-/-,3.35,Fixed,2024-05-15,,Secondary
+717081DM2,PFIZER INC.                                                     ,A2/A+,-/-,3.4,Fixed,2024-05-15,,Secondary
+863667AF8,STRYKER CORPORATION                                             ,Baa1/A-,-/-,3.375,Fixed,2024-05-15,C 2/24@ 100,Secondary
+149123CC3,CATERPILLAR INC                                                 ,A2/A,-/-,3.4,Fixed,2024-05-15,C 2/24@ 100,Secondary
+06406HCV9,BANK OF NEW YORK MELLON CORPORATION                             ,A1/A,-/-,3.4,Fixed,2024-05-15,C 4/24@ 100,Secondary
+14913Q2V0,CATERPILLAR FINANCIAL SERVICES CORPORATION                      ,A2/A,-/-,2.85,Fixed,2024-05-17,,Secondary
+22160KAL9,COSTCO WHOLESALE CORPORATION                                    ,Aa3/A+,-/-,2.75,Fixed,2024-05-18,C 3/24@ 100,Secondary
+747525AT0,QUALCOMM INCORPORATED                                           ,A2/A,-/-,2.9,Fixed,2024-05-20,C 3/24@ 100,Secondary
+031162BV1,AMGEN INC.                                                      ,Baa1/A-,-/-,3.625,Fixed,2024-05-22,C 2/24@ 100,Secondary
+341081FK8,FLORIDA POWER & LIGHT COMPANY                                   ,Aa2/A+,-/-,3.25,Fixed,2024-06-01,C 12/23@ 100,Secondary
+631103AF5,"THE NASDAQ OMX GROUP, INC.                                      ",Baa2/BBB+,-/-,4.25,Fixed,2024-06-01,C 3/24@ 100,Secondary
+824348AV8,THE SHERWIN-WILLIAMS COMPANY                                    ,Baa2/BBB,-/-,3.125,Fixed,2024-06-01,C 4/24@ 100,Secondary
+571748AV4,"MARSH & MCLENNAN COMPANIES, INC.                                ",Baa1/A-,-/-,3.5,Fixed,2024-06-03,C 3/24@ 100,Secondary
+58013MES9,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,3.25,Fixed,2024-06-10,,Secondary
+24422ESP5,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,3.35,Fixed,2024-06-12,,Secondary
+701094AM6,PARKER-HANNIFIN CORPORATION                                     ,Baa1/BBB+,-/-,2.7,Fixed,2024-06-14,C 5/24@ 100,Secondary
+00287YCV9,ABBVIE INC.                                                     ,Baa2/BBB+,-/-,3.85,Fixed,2024-06-15,C 3/24@ 100,Secondary
+744573AN6,PUBLIC SERVICE ENTERPRISE GROUP INCORPORATED                    ,Baa2/BBB,-/-,2.875,Fixed,2024-06-15,C 5/24@ 100,Secondary
+172967HT1,CITIGROUP INC.                                                  ,A3/BBB+,-/-,3.75,Fixed,2024-06-16,,Secondary
+24422ETT6,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,2.65,Fixed,2024-06-24,,Secondary
+969457BW9,"THE WILLIAMS COMPANIES, INC.                                    ",Baa2/BBB,-/-,4.55,Fixed,2024-06-24,C 3/24@ 100,Secondary
+87612EBD7,TARGET CORPORATION                                              ,A2/A,-/-,3.5,Fixed,2024-07-01,,Secondary
+337738AS7,FISERV INC.                                                     ,Baa2/BBB,-/-,2.75,Fixed,2024-07-01,C 6/24@ 100,Secondary
+38141EC23,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.85,Fixed,2024-07-08,C 4/24@ 100,Secondary
+68389XAU9,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,3.4,Fixed,2024-07-08,C 4/24@ 100,Secondary
+931142EL3,WALMART INC                                                     ,Aa2/AA,-/-,2.85,Fixed,2024-07-08,C 6/24@ 100,Secondary
+524901AT2,LEGG MASON INC                                                  ,A2/A,-/-,3.95,Fixed,2024-07-15,,Secondary
+91159HHX1,U.S. BANCORP                                                    ,A2/A+,-/-,2.4,Fixed,2024-07-30,C 6/24@ 100,Secondary
+025816CG2,AMERICAN EXPRESS COMPANY                                        ,A3/BBB+,-/-,2.5,Fixed,2024-07-30,C 6/24@ 100,Secondary
+278642AL7,EBAY INC.                                                       ,Baa1/BBB+,-/-,3.45,Fixed,2024-08-01,C 5/24@ 100,Secondary
+05531FBH5,BB&T CORPORATION                                                ,A3/A-,-/-,2.5,Fixed,2024-08-01,C 7/24@ 100,Secondary
+172967HV6,CITIGROUP INC.                                                  ,Baa2/BBB,-/-,4.0,Fixed,2024-08-05,,Secondary
+446150AQ7,HUNTINGTON BANCSHARES INCORPORATED                              ,Baa1/BBB+,-/-,2.625,Fixed,2024-08-06,C 7/24@ 100,Secondary
+126650CF5,CVS CAREMARK CORPORATION                                        ,Baa2/BBB,-/-,3.375,Fixed,2024-08-12,C 5/24@ 100,Secondary
+91324PDR0,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,2.375,Fixed,2024-08-15,,Secondary
+902494AX1,"TYSON FOODS, INC.                                               ",Baa2/BBB+,-/-,3.95,Fixed,2024-08-15,C 5/24@ 100,Secondary
+124857AM5,CBS CORPORATION                                                 ,Baa2/BBB,-/-,3.7,Fixed,2024-08-15,C 5/24@ 100,Secondary
+94973VBJ5,WELLPOINT INC.                                                  ,Baa2/A,-/-,3.5,Fixed,2024-08-15,C 5/24@ 100,Secondary
+579780AM9,"MCCORMICK & COMPANY, INCORPORATED                               ",Baa2/BBB,-/-,3.15,Fixed,2024-08-15,C 6/24@ 100,Secondary
+126650DE7,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,2.625,Fixed,2024-08-15,C 7/24@ 100,Secondary
+760759AU4,"REPUBLIC SERVICES, INC.                                         ",Baa2/BBB+,-/-,2.5,Fixed,2024-08-15,C 7/24@ 100,Secondary
+438516BW5,HONEYWELL INTERNATIONAL INC.                                    ,A2/A,-/-,2.3,Fixed,2024-08-15,C 7/24@ 100,Secondary
+023135AZ9,"AMAZON.COM, INC.                                                ",A1/AA,-/-,2.8,Fixed,2024-08-22,C 6/24@ 100,Secondary
+06051GFH7,BANK OF AMERICA CORPORATION                                     ,Baa1/BBB+,-/-,4.2,Fixed,2024-08-26,,Secondary
+494550BV7,KINDER MORGAN ENERGY PARTNERS LP                                ,Baa2/BBB,-/-,4.25,Fixed,2024-09-01,C 6/24@ 100,Secondary
+12189LAT8,BURLINGTON NORTHERN SANTA FE LLC                                ,A3/AA-,-/-,3.4,Fixed,2024-09-01,C 6/24@ 100,Secondary
+50540RAT9,LABORATORY CORP OF AMERICA HOLDINGS                             ,Baa2/BBB,-/-,3.25,Fixed,2024-09-01,C 7/24@ 100,Secondary
+94974BGA2,WELLS FARGO & COMPANY                                           ,A1/BBB+,-/-,3.3,Fixed,2024-09-09,,Secondary
+91159HHK9,U.S. BANCORP                                                    ,A2/A,-/-,3.6,Fixed,2024-09-11,C 8/24@ 100,Secondary
+06406HCX5,BANK OF NEW YORK MELLON CORPORATION                             ,A1/A,-/-,3.25,Fixed,2024-09-11,C 8/24@ 100,Secondary
+828807DG9,"SIMON PROPERTY GROUP, L.P.                                      ",A3/A-,-/-,2.0,Fixed,2024-09-13,C 6/24@ 100,Secondary
+30034WAA4,EVERGY INC                                                      ,Baa2/BBB+,-/-,2.45,Fixed,2024-09-15,C 8/24@ 100,Secondary
+828807CS4,"SIMON PROPERTY GROUP, L.P.                                      ",A3/A-,-/-,3.375,Fixed,2024-10-01,C 7/24@ 100,Secondary
+70450YAC7,PAYPAL HOLDINGS INCORPORATION                                   ,A3/A-,-/-,2.4,Fixed,2024-10-01,C 9/24@ 100,Secondary
+03076CAG1,"AMERIPRISE FINANCIAL, INC.                                      ",A3/A-,-/-,3.7,Fixed,2024-10-15,,Secondary
+23331ABM0,"D.R. HORTON, INC.                                               ",Baa2/BBB,-/-,2.5,Fixed,2024-10-15,C 9/24@ 100,Secondary
+61761JVL0,MORGAN STANLEY                                                  ,A1/BBB+,-/-,3.7,Fixed,2024-10-23,,Secondary
+06406RAL1,THE BANK OF NEW YORK MELLON CORPORATION                         ,A1/A,-/-,2.1,Fixed,2024-10-24,,Secondary
+05531FBB8,BB&T CORPORATION                                                ,A3/A-,-/-,2.85,Fixed,2024-10-26,C 9/24@ 100,Secondary
+49338LAB9,"KEYSIGHT TECHNOLOGIES, INC.                                     ",Baa2/BBB,-/-,4.55,Fixed,2024-10-30,C 7/24@ 100,Secondary
+025816BR9,AMERICAN EXPRESS COMPANY                                        ,A3/BBB+,-/-,3.0,Fixed,2024-10-30,C 9/24@ 100,Secondary
+14040HBT1,CAPITAL ONE FINANCIAL CORPORATION                               ,Baa1/BBB,-/-,3.3,Fixed,2024-10-30,C 10/24@ 100,Secondary
+92343VCR3,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,3.5,Fixed,2024-11-01,C 8/24@ 100,Secondary
+482480AE0,KLA-TENCOR CORP                                                 ,A2/BBB+,-/-,4.65,Fixed,2024-11-01,C 8/24@ 100,Secondary
+681919BA3,OMNICOM GROUP INC                                               ,Baa1/BBB+,-/-,3.65,Fixed,2024-11-01,C 8/24@ 100,Secondary
+693475AY1,PNC FINANCIAL SERVICES GROUP INC                                ,A3/A-,-/-,2.2,Fixed,2024-11-01,C 10/24@ 100,Secondary
+14913Q3B3,CATERPILLAR FINANCIAL SERVICES CORPORATION                      ,A2/A,-/-,2.15,Fixed,2024-11-08,,Secondary
+718172BM0,PHILIP MORRIS INTERNATIONAL INC.                                ,A2/A,-/-,3.25,Fixed,2024-11-10,,Secondary
+001055AM4,AFLAC INCORPORATED                                              ,A3/A-,-/-,3.625,Fixed,2024-11-15,,Secondary
+00817YAQ1,"AETNA, INC.                                                     ",Baa2/BBB,-/-,3.5,Fixed,2024-11-15,C 8/24@ 100,Secondary
+369550AY4,GENERAL DYNAMICS CORPORATION                                    ,A3/A-,-/-,2.375,Fixed,2024-11-15,C 9/24@ 100,Secondary
+68389XBS3,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,2.95,Fixed,2024-11-15,C 9/24@ 100,Secondary
+257375AN5,DOMINION ENERGY GAS HOLDINGS LLC                                ,Baa1/A,-/-,2.5,Fixed,2024-11-15,C 10/24@ 100,Secondary
+931427AH1,"WALGREENS BOOTS ALLIANCE, INC.                                  ",Baa2/BBB,-/-,3.8,Fixed,2024-11-18,C 8/24@ 100,Secondary
+00287YBZ1,ABBVIE INC.                                                     ,Baa2/BBB+,-/-,2.6,Fixed,2024-11-21,C 10/24@ 100,Secondary
+14912L6G1,CATERPILLAR FINANCIAL SERVICES CORPORATION                      ,A2/A,-/-,3.25,Fixed,2024-12-01,,Secondary
+036752AC7,ANTHEM INC                                                      ,Baa2/A,-/-,3.35,Fixed,2024-12-01,C 10/24@ 100,Secondary
+29736RAN0,THE ESTEE LAUDER COMPANIES INC.                                 ,A1/A+,-/-,2.0,Fixed,2024-12-01,C 11/24@ 100,Secondary
+50540RAV4,LABORATORY CORP OF AMERICA HOLDINGS                             ,Baa2/BBB,-/-,2.3,Fixed,2024-12-01,C 11/24@ 100,Secondary
+023135AN6,"AMAZON.COM, INC.                                                ",A1/AA,-/-,3.8,Fixed,2024-12-05,C 9/24@ 100,Secondary
+025816BK4,AMERICAN EXPRESS COMPANY                                        ,A3/BBB,-/-,3.625,Fixed,2024-12-05,C 11/24@ 100,Secondary
+189054AU3,THE CLOROX COMPANY                                              ,Baa1/A-,-/-,3.5,Fixed,2024-12-15,C 9/24@ 100,Secondary
+931142DV2,"WAL-MART STORES, INC.                                           ",Aa2/AA,-/-,2.65,Fixed,2024-12-15,C 10/24@ 100,Secondary
+857477AN3,STATE STREET CORPORATION                                        ,A1/A,-/-,3.3,Fixed,2024-12-16,,Secondary
+24422EVC0,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,2.05,Fixed,2025-01-09,,Secondary
+037833DF4,APPLE INC.                                                      ,Aaa/AA+,-/-,2.75,Fixed,2025-01-13,C 11/24@ 100,Secondary
+10112RAZ7,BOSTON PROPERTIES LIMITED PARTNERSHIP                           ,Baa1/BBB+,-/-,3.2,Fixed,2025-01-15,C 10/24@ 100,Secondary
+124857AP8,CBS CORPORATION                                                 ,Baa2/BBB,-/-,3.5,Fixed,2025-01-15,C 10/24@ 100,Secondary
+96950FAQ7,WILLIAMS PARTNERS L.P.                                          ,Baa2/BBB,-/-,3.9,Fixed,2025-01-15,C 10/24@ 100,Secondary
+478160CJ1,JOHNSON & JOHNSON                                               ,Aaa/AAA,-/-,2.625,Fixed,2025-01-15,C 11/24@ 100,Secondary
+666807BM3,NORTHROP GRUMMAN CORPORATION                                    ,Baa1/BBB+,-/-,2.93,Fixed,2025-01-15,C 11/24@ 100,Secondary
+036752AJ2,ANTHEM INC  ,Baa2/A,-/-,2.375,Fixed,2025-01-15,C 12/24@ 100,Secondary
+06051GFM6,BANK OF AMERICA CORPORATION                                     ,Baa1/BBB+,-/-,4.0,Fixed,2025-01-22,,Secondary
+38148LAC0,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.5,Fixed,2025-01-23,C 10/24@ 100,Secondary
+46625HKC3,JPMORGAN CHASE & CO.                                            ,A2/A-,-/-,3.125,Fixed,2025-01-23,C 10/24@ 100,Secondary
+316773CY4,FIFTH THIRD BANCORP                                             ,Baa1/BBB+,-/-,2.375,Fixed,2025-01-28,C 12/24@ 100,Secondary
+78486QAD3,SVB FINANCIAL GROUP                                             ,A3/BBB,-/-,3.5,Fixed,2025-01-29,,Secondary
+50540RAQ5,LABORATORY CORP OF AMERICA HOLDINGS                             ,Baa2/BBB,-/-,3.6,Fixed,2025-02-01,C 11/24@ 100,Secondary
+92277GAE7,VENTAS REALTY L.P./VENTAS CAPITAL CORP.                         ,Baa1/BBB+,-/-,3.5,Fixed,2025-02-01,C 11/24@ 100,Secondary
+00724FAC5,ADOBE SYSTEMS INCORPORATED                                      ,A2/A+,-/-,3.25,Fixed,2025-02-01,C 11/24@ 100,Secondary
+375558AZ6,"GILEAD SCIENCES, INC.                                           ",A3/BBB+,-/-,3.5,Fixed,2025-02-01,C 11/24@ 100,Secondary
+49446RAU3,KIMCO REALTY CORPORATION                                        ,Baa1/BBB+,-/-,3.3,Fixed,2025-02-01,C 12/24@ 100,Secondary
+14040HBG9,CAPITAL ONE FINANCIAL CORPORATION                               ,Baa1/BBB,-/-,3.2,Fixed,2025-02-05,C 1/25@ 100,Secondary
+037833AZ3,APPLE INC.                                                      ,Aaa/AA+,-/-,2.5,Fixed,2025-02-09,,Secondary
+58933YAR6,"MERCK & CO., INC                                                ",A1/A+,-/-,2.75,Fixed,2025-02-10,C 11/24@ 100,Secondary
+594918BB9,MICROSOFT CORPORATION                                           ,Aaa/AAA,-/-,2.7,Fixed,2025-02-12,C 11/24@ 100,Secondary
+88579YBH3,3M COMPANY                                                      ,A1/A+,-/-,2.0,Fixed,2025-02-14,C 1/25@ 100,Secondary
+92343VEN0,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,3.376,Fixed,2025-02-15,,Secondary
+20030NBL4,COMCAST CORPORATION                                             ,A3/A-,-/-,3.375,Fixed,2025-02-15,C 11/24@ 100,Secondary
+29379VBE2,ENTERPRISE PRODUCTS OPERATING LLC                               ,Baa1/BBB+,-/-,3.75,Fixed,2025-02-15,C 11/24@ 100,Secondary
+94974BGH7,WELLS FARGO & COMPANY                                           ,A1/BBB+,-/-,3.0,Fixed,2025-02-19,,Secondary
+06406HDA4,BANK OF NEW YORK MELLON CORPORATION                             ,A1/A,-/-,3.0,Fixed,2025-02-24,C 1/25@ 100,Secondary
+59156RBM9,METLIFE INC.                                                    ,A3/A-,-/-,3.0,Fixed,2025-03-01,,Secondary
+539830BE8,LOCKHEED MARTIN CORPORATION                                     ,A3/A-,-/-,2.9,Fixed,2025-03-01,C 12/24@ 100,Secondary
+032095AK7,AMPHENOL CORPORATION                                            ,Baa1/BBB+,-/-,2.05,Fixed,2025-03-01,C 2/25@ 100,Secondary
+57636QAN4,MASTERCARD INCORPORATED                                         ,A1/A+,-/-,2.0,Fixed,2025-03-03,C 2/25@ 100,Secondary
+534187BE8,LINCOLN NATIONAL CORPORATION                                    ,Baa1/A-,-/-,3.35,Fixed,2025-03-09,,Secondary
+571748AX0,"MARSH & MCLENNAN COMPANIES, INC.                                ",Baa1/A-,-/-,3.5,Fixed,2025-03-10,C 12/24@ 100,Secondary
+24422EUE7,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,3.45,Fixed,2025-03-13,,Secondary
+832696AK4,J.M. SMUCKER COMPANY                                            ,Baa2/BBB,-/-,3.5,Fixed,2025-03-15,,Secondary
+00440EAS6,ACE INA HOLDINGS INC.                                           ,A3/A,-/-,3.15,Fixed,2025-03-15,,Secondary
+002824BB5,ABBOTT LABORATORIES                                             ,A2/A+,-/-,2.95,Fixed,2025-03-15,C 12/24@ 100,Secondary
+512807AN8,LAM RESEARCH CORPORATION                                        ,A2/A-,-/-,3.8,Fixed,2025-03-15,C 12/24@ 100,Secondary
+12572QAG0,CME GROUP INC.                                                  ,Aa3/AA-,-/-,3.0,Fixed,2025-03-15,C 12/24@ 100,Secondary
+760759AQ3,"REPUBLIC SERVICES, INC.                                         ",Baa2/BBB+,-/-,3.2,Fixed,2025-03-15,C 12/24@ 100,Secondary
+00287YCX5,ABBVIE INC.                                                     ,Baa2/BBB+,-/-,3.8,Fixed,2025-03-15,C 12/24@ 100,Secondary
+099724AJ5,BORGWARNER INC.                                                 ,Baa1/BBB,-/-,3.375,Fixed,2025-03-15,C 12/24@ 100,Secondary
+741503AW6,THE PRICELINE GROUP INC                                         ,A3/A-,-/-,3.65,Fixed,2025-03-15,C 12/24@ 100,Secondary
+001055AP7,AFLAC INCORPORATED                                              ,A3/A-,-/-,3.25,Fixed,2025-03-17,,Secondary
+713448EQ7,PEPSICO INC                                                     ,A1/A+,-/-,2.25,Fixed,2025-03-19,C 2/25@ 100,Secondary
+808513BB0,THE CHARLES SCHWAB CORPORATION                                  ,A2/A,-/-,4.2,Fixed,2025-03-24,C 2/25@ 100,Secondary
+126650CW8,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,4.1,Fixed,2025-03-25,C 1/25@ 100,Secondary
+458140BP4,INTEL CORPORATION                                               ,A1/A+,-/-,3.4,Fixed,2025-03-25,C 2/25@ 100,Secondary
+172967JL6,CITIGROUP INC.                                                  ,Baa2/BBB,-/-,3.875,Fixed,2025-03-26,,Secondary
+654106AH6,"NIKE, INC.                                                      ",A1/AA-,-/-,2.4,Fixed,2025-03-27,C 2/25@ 100,Secondary
+354613AK7,FRANKLIN RESOURCES                                              ,A2/A,-/-,2.85,Fixed,2025-03-30,,Secondary
+74834LAX8,QUEST DIAGNOSTICS INCORPORATED                                  ,Baa2/BBB+,-/-,3.5,Fixed,2025-03-30,C 12/24@ 100,Secondary
+12189LAV3,BURLINGTON NORTHERN SANTA FE LLC                                ,A3/AA-,-/-,3.0,Fixed,2025-04-01,C 1/25@ 100,Secondary
+38141GXJ8,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.5,Fixed,2025-04-01,C 3/25@ 100,Secondary
+911312BX3,"UNITED PARCEL SERVICE, INC.                                     ",A2/A-,-/-,3.9,Fixed,2025-04-01,C 3/25@ 100,Secondary
+68389XBT1,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,2.5,Fixed,2025-04-01,C 3/25@ 100,Secondary
+369550BK3,GENERAL DYNAMICS CORPORATION                                    ,A3/A-,-/-,3.25,Fixed,2025-04-01,C 3/25@ 100,Secondary
+03076CAK2,"AMERIPRISE FINANCIAL, INC.                                      ",A3/A-,-/-,3.0,Fixed,2025-04-02,C 3/25@ 100,Secondary
+68902VAH0,OTIS WORLDWIDE CORPORATION                                      ,Baa2/BBB,-/-,2.056,Fixed,2025-04-05,C 3/25@ 100,Secondary
+35137LAM7,FOX CORPORATION                                                 ,Baa2/BBB,-/-,3.05,Fixed,2025-04-07,C 3/25@ 100,Secondary
+125523AV2,CIGNA CORPORATION                                               ,Baa1/A-,-/-,3.25,Fixed,2025-04-15,C 1/25@ 100,Secondary
+756109AV6,REALTY INCOME CORPORATION                                       ,A3/A-,-/-,3.875,Fixed,2025-04-15,C 2/25@ 100,Secondary
+88579YBM2,3M COMPANY                                                      ,A1/A+,-/-,2.65,Fixed,2025-04-15,C 3/25@ 100,Secondary
+778296AB9,ROSS STORES INC                                                 ,A2/BBB+,-/-,4.6,Fixed,2025-04-15,C 3/25@ 100,Secondary
+548661DT1,"LOWES COMPANIES, INC.                                           ",Baa1/BBB+,-/-,4.0,Fixed,2025-04-15,C 3/25@ 100,Secondary
+084659AT8,BERKSHIRE HATHAWAY ENERGY COMPANY                               ,A3/A-,-/-,4.05,Fixed,2025-04-15,C 3/25@ 100,Secondary
+87612EBL9,TARGET CORPORATION                                              ,A2/A,-/-,2.25,Fixed,2025-04-15,C 3/25@ 100,Secondary
+053332AY8,"AUTOZONE, INC.                                                  ",Baa1/BBB,-/-,3.625,Fixed,2025-04-15,C 3/25@ 100,Secondary
+244199BH7,DEERE & COMPANY                                                 ,A2/A,-/-,2.75,Fixed,2025-04-15,C 3/25@ 100,Secondary
+370334CF9,"GENERAL MILLS, INC.                                             ",Baa2/BBB,-/-,4.0,Fixed,2025-04-17,C 2/25@ 100,Secondary
+06051GFP9,BANK OF AMERICA CORPORATION                                     ,Baa1/BBB+,-/-,3.95,Fixed,2025-04-21,,Secondary
+918204BA5,V.F. CORPORATION                                                ,Baa1/A-,-/-,2.4,Fixed,2025-04-23,C 3/25@ 100,Secondary
+172967JP7,CITIGROUP INC.                                                  ,A3/BBB+,-/-,3.3,Fixed,2025-04-27,,Secondary
+413875AR6,HARRIS CORPORATION                                              ,Baa2/BBB,-/-,3.832,Fixed,2025-04-27,C 1/25@ 100,Secondary
+713448CT3,"PEPSICO CAPITAL RESOURCES, INC.                                 ",A1/A+,-/-,2.75,Fixed,2025-04-30,C 1/25@ 100,Secondary
+015271AL3,"ALEXANDRIA REAL ESTATE EQUITIES, INC.                           ",Baa1/BBB+,-/-,3.45,Fixed,2025-04-30,C 2/25@ 100,Secondary
+14040HBZ7,CAPITAL ONE FINANCIAL CORPORATION                               ,Baa1/BBB,-/-,4.25,Fixed,2025-04-30,C 3/25@ 100,Secondary
+031162BY5,AMGEN INC.                                                      ,Baa1/A-,-/-,3.125,Fixed,2025-05-01,C 2/25@ 100,Secondary
+867914BS1,TRUIST FINANCIAL CORPORATION                                    ,A3/A-,-/-,4.0,Fixed,2025-05-01,C 3/25@ 100,Secondary
+02209SBH5,"ALTRIA GROUP, INC.                                              ",A3/BBB,-/-,2.35,Fixed,2025-05-06,C 4/25@ 100,Secondary
+037833BG4,APPLE INC.                                                      ,Aaa/AA+,-/-,3.2,Fixed,2025-05-13,,Secondary
+00287YAQ2,ABBVIE INC.                                                     ,Baa2/BBB+,-/-,3.6,Fixed,2025-05-14,C 2/25@ 100,Secondary
+68389XBC8,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,2.95,Fixed,2025-05-15,C 2/25@ 100,Secondary
+369550BG2,GENERAL DYNAMICS CORPORATION                                    ,A3/A-,-/-,3.5,Fixed,2025-05-15,C 3/25@ 100,Secondary
+256746AG3,DOLLAR TREE INC                                                 ,Baa2/BBB,-/-,4.0,Fixed,2025-05-15,C 3/25@ 100,Secondary
+446150AM6,HUNTINGTON BANCSHARES INCORPORATED                              ,Baa1/BBB+,-/-,4.0,Fixed,2025-05-15,C 4/25@ 100,Secondary
+92556HAA5,VIACOMCBS INC                                                   ,Baa2/BBB,-/-,4.75,Fixed,2025-05-15,C 4/25@ 100,Secondary
+7591EPAQ3,REGIONS FINANCIAL CORPORATION                                   ,Baa2/BBB+,-/-,2.25,Fixed,2025-05-18,C 4/25@ 100,Secondary
+747525AF0,QUALCOMM INC                                                    ,A2/A,-/-,3.45,Fixed,2025-05-20,C 2/25@ 100,Secondary
+808513AX3,THE CHARLES SCHWAB CORPORATION                                  ,A2/A,-/-,3.85,Fixed,2025-05-21,C 3/25@ 100,Secondary
+38148LAE6,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.75,Fixed,2025-05-22,C 2/25@ 100,Secondary
+49271VAH3,KEURIG DR PEPPER INC                                            ,Baa2/BBB,-/-,4.417,Fixed,2025-05-25,C 3/25@ 100,Secondary
+58013MEU4,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,3.375,Fixed,2025-05-26,C 2/25@ 100,Secondary
+98389BAR1,XCEL ENERGY INC                                                 ,Baa1/BBB+,-/-,3.3,Fixed,2025-06-01,C 12/24@ 100,Secondary
+49456BAF8,"KINDER MORGAN, INC.                                             ",Baa2/BBB,-/-,4.3,Fixed,2025-06-01,C 3/25@ 100,Secondary
+337738AP3,FISERV INC.                                                     ,Baa2/BBB,-/-,3.85,Fixed,2025-06-01,C 3/25@ 100,Secondary
+291011BG8,EMERSON ELECTRIC CO.                                            ,A2/A,-/-,3.15,Fixed,2025-06-01,C 3/25@ 100,Secondary
+05348EAV1,"AVALONBAY COMMUNITIES, INC.                                     ",A3/A-,-/-,3.45,Fixed,2025-06-01,C 3/25@ 100,Secondary
+670346AR6,NUCOR CORPORATION                                               ,Baa1/A-,-/-,2.0,Fixed,2025-06-01,C 5/25@ 100,Secondary
+05531FBE2,BB&T CORPORATION                                                ,A3/A-,-/-,3.7,Fixed,2025-06-05,C 5/25@ 100,Secondary
+172967JT9,CITIGROUP INC.                                                  ,Baa2/BBB,-/-,4.4,Fixed,2025-06-10,,Secondary
+17275RAW2,"CISCO SYSTEMS, INC.                                             ",A1/AA-,-/-,3.5,Fixed,2025-06-15,,Secondary
+92345YAD8,"VERISK ANALYTICS, INC.                                          ",Baa2/BBB,-/-,4.0,Fixed,2025-06-15,C 3/25@ 100,Secondary
+30161NAN1,EXELON CORPORATION                                              ,Baa2/BBB,-/-,3.95,Fixed,2025-06-15,C 3/25@ 100,Secondary
+740189AM7,PRECISION CASTPARTS CORP.                                       ,Aa2/AA,-/-,3.25,Fixed,2025-06-15,C 3/25@ 100,Secondary
+40434LAA3,HP INC                                                          ,Baa2/BBB,-/-,2.2,Fixed,2025-06-17,C 5/25@ 100,Secondary
+931142ED1,WALMART INC                                                     ,Aa2/AA,-/-,3.55,Fixed,2025-06-26,C 4/25@ 100,Secondary
+58013MFN9,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,3.3,Fixed,2025-07-01,C 6/25@ 100,Secondary
+91324PCP5,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,3.75,Fixed,2025-07-15,,Secondary
+46625HMN7,JPMORGAN CHASE & CO.                                            ,A2/A-,-/-,3.9,Fixed,2025-07-15,C 4/25@ 100,Secondary
+907818ES3,UNION PACIFIC CORPORATION                                       ,Baa1/A-,-/-,3.75,Fixed,2025-07-15,C 5/25@ 100,Secondary
+713448CY2,"PEPSICO CAPITAL RESOURCES, INC.                                 ",A1/A+,-/-,3.5,Fixed,2025-07-17,C 4/25@ 100,Secondary
+126650CL2,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,3.875,Fixed,2025-07-20,C 4/25@ 100,Secondary
+6174468C6,MORGAN STANLEY                                                  ,A1/BBB+,-/-,4.0,Fixed,2025-07-23,,Secondary
+458140AS9,INTEL CORPORATION                                               ,A1/A+,-/-,3.7,Fixed,2025-07-29,C 4/25@ 100,Secondary
+06051GFS3,BANK OF AMERICA CORPORATION                                     ,A2/A-,-/-,3.875,Fixed,2025-08-01,,Secondary
+824348AR7,THE SHERWIN-WILLIAMS COMPANY                                    ,Baa2/BBB,-/-,3.45,Fixed,2025-08-01,C 5/25@ 100,Secondary
+842400GN7,SOUTHERN CALIFORNIA EDISON COMPANY                              ,A3/A-,-/-,3.7,Fixed,2025-08-01,C 6/25@ 100,Secondary
+718172BQ1,PHILIP MORRIS INTERNATIONAL INC.                                ,A2/A,-/-,3.375,Fixed,2025-08-11,C 5/25@ 100,Secondary
+20030NBN0,COMCAST CORPORATION                                             ,A3/A-,-/-,3.375,Fixed,2025-08-15,C 5/25@ 100,Secondary
+907818ED6,UNION PACIFIC CORPORATION                                       ,Baa1/A-,-/-,3.25,Fixed,2025-08-15,C 5/25@ 100,Secondary
+855244AQ2,STARBUCKS CORPORATION                                           ,Baa1/BBB+,-/-,3.8,Fixed,2025-08-15,C 6/25@ 100,Secondary
+857477AT0,STATE STREET CORPORATION                                        ,A1/A,-/-,3.55,Fixed,2025-08-18,,Secondary
+24422ETC3,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,3.4,Fixed,2025-09-11,,Secondary
+235851AQ5,DANAHER CORPORATION                                             ,Baa1/BBB+,-/-,3.35,Fixed,2025-09-15,C 6/25@ 100,Secondary
+053015AE3,AUTO DATA PROCESS                                               ,Aa3/AA-,-/-,3.375,Fixed,2025-09-15,C 6/25@ 100,Secondary
+96949LAB1,WILLIAMS PARTNERS L.P.                                          ,Baa2/BBB,-/-,4.0,Fixed,2025-09-15,C 6/25@ 100,Secondary
+437076BK7,"THE HOME DEPOT, INC.                                            ",A2/A,-/-,3.35,Fixed,2025-09-15,C 6/25@ 100,Secondary
+548661DH7,"LOWES COMPANIES, INC.                                           ",Baa1/BBB+,-/-,3.375,Fixed,2025-09-15,C 6/25@ 100,Secondary
+94974BGP9,WELLS FARGO & COMPANY                                           ,A1/BBB+,-/-,3.55,Fixed,2025-09-29,,Secondary
+038222AJ4,APPLIED MATERIALS INC.                                          ,A2/A,-/-,3.9,Fixed,2025-10-01,C 7/25@ 100,Secondary
+20030NCS8,COMCAST CORPORATION                                             ,A3/A-,-/-,3.95,Fixed,2025-10-15,C 8/25@ 100,Secondary
+23331ABN8,"D.R. HORTON, INC.                                               ",Baa2/BBB,-/-,2.6,Fixed,2025-10-15,C 9/25@ 100,Secondary
+49326EEH2,KEYCORP                                                         ,Baa1/BBB+,-/-,4.15,Fixed,2025-10-29,,Secondary
+665859AP9,NORTHERN TRUST CORPORATION                                      ,A2/A,-/-,3.95,Fixed,2025-10-30,,Secondary
+256677AD7,DOLLAR GENERAL CORPORATION                                      ,Baa2/BBB,-/-,4.15,Fixed,2025-11-01,C 8/25@ 100,Secondary
+126408HD8,CSX CORPORATION                                                 ,Baa1/BBB+,-/-,3.35,Fixed,2025-11-01,C 8/25@ 100,Secondary
+863667AH4,STRYKER CORPORATION                                             ,Baa1/A-,-/-,3.375,Fixed,2025-11-01,C 8/25@ 100,Secondary
+594918BJ2,MICROSOFT CORPORATION                                           ,Aaa/AAA,-/-,3.125,Fixed,2025-11-03,C 8/25@ 100,Secondary
+86787EBB2,SUNTRUST BANK                                                   ,A2/A,-/-,4.05,Fixed,2025-11-03,C 9/25@ 100,Secondary
+025816CA5,AMERICAN EXPRESS COMPANY                                        ,A3/BBB+,-/-,4.2,Fixed,2025-11-06,C 10/25@ 100,Secondary
+59156RBQ0,METLIFE INC.                                                    ,A3/A-,-/-,3.6,Fixed,2025-11-13,C 8/25@ 100,Secondary
+98978VAK9,ZOETIS INC.                                                     ,Baa1/BBB,-/-,4.5,Fixed,2025-11-13,C 8/25@ 100,Secondary
+26138EAS8,DR. PEPPER SNAPPLE GROUP INC.                                   ,Baa2/BBB,-/-,3.4,Fixed,2025-11-15,C 8/25@ 100,Secondary
+125896BP4,CMS ENERGY CORPORATION                                          ,Baa2/BBB,-/-,3.6,Fixed,2025-11-15,C 8/25@ 100,Secondary
+125523AG5,CIGNA CORPORATION                                               ,Baa1/A-,-/-,4.125,Fixed,2025-11-15,C 9/25@ 100,Secondary
+91159HHU7,U.S. BANCORP                                                    ,A2/A+,-/-,3.95,Fixed,2025-11-17,C 10/25@ 100,Secondary
+341081FM4,FLORIDA POWER & LIGHT COMPANY                                   ,Aa2/A+,-/-,3.125,Fixed,2025-12-01,C 6/25@ 100,Secondary
+45866FAD6,INTERCONTINENTAL EXCHANGE INC                                   ,A3/A-,-/-,3.75,Fixed,2025-12-01,C 9/25@ 100,Secondary
+843646AM2,SOUTHERN POWER COMPANY                                          ,Baa1/BBB,-/-,4.15,Fixed,2025-12-01,C 9/25@ 100,Secondary
+92826CAD4,VISA INC                                                        ,Aa3/AA-,-/-,3.15,Fixed,2025-12-14,C 9/25@ 100,Secondary
+91324PDN9,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,3.7,Fixed,2025-12-15,,Secondary
+172967KG5,CITIGROUP INC.                                                  ,A3/BBB+,-/-,3.7,Fixed,2026-01-12,,Secondary
+92277GAG2,VENTAS REALTY L.P./VENTAS CAPITAL CORP.                         ,Baa1/BBB+,-/-,4.125,Fixed,2026-01-15,C 10/25@ 100,Secondary
+828807CW5,"SIMON PROPERTY GROUP, L.P.                                      ",A3/A-,-/-,3.3,Fixed,2026-01-15,C 10/25@ 100,Secondary
+124857AQ6,CBS CORPORATION                                                 ,Baa2/BBB,-/-,4.0,Fixed,2026-01-15,C 10/25@ 100,Secondary
+539830BH1,LOCKHEED MARTIN CORPORATION                                     ,A3/A-,-/-,3.55,Fixed,2026-01-15,C 10/25@ 100,Secondary
+61746BDZ6,MORGAN STANLEY                                                  ,A1/BBB+,-/-,3.875,Fixed,2026-01-27,,Secondary
+74005PBQ6,"PRAXAIR, INC.                                                   ",A2/A,-/-,3.2,Fixed,2026-01-30,C 10/25@ 100,Secondary
+58013MEY6,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,3.7,Fixed,2026-01-30,C 10/25@ 100,Secondary
+501044DC2,THE KROGER CO.                                                  ,Baa1/BBB,-/-,3.5,Fixed,2026-02-01,C 11/25@ 100,Secondary
+10112RAX2,BOSTON PROPERTIES LIMITED PARTNERSHIP                           ,Baa1/BBB+,-/-,3.65,Fixed,2026-02-01,C 11/25@ 100,Secondary
+742718EP0,THE PROCTER & GAMBLE COMPANY                                    ,Aa3/AA-,-/-,2.7,Fixed,2026-02-02,,Secondary
+02209SBC6,"ALTRIA GROUP, INC.                                              ",A3/BBB,-/-,4.4,Fixed,2026-02-14,C 12/25@ 100,Secondary
+494368BU6,KIMBERLY-CLARK CORPORATION                                      ,A2/A,-/-,2.75,Fixed,2026-02-15,,Secondary
+29379VBH5,ENTERPRISE PRODUCTS OPERATING LLC                               ,Baa1/BBB+,-/-,3.7,Fixed,2026-02-15,C 11/25@ 100,Secondary
+459200JG7,INTERNATIONAL BUSINESS MACHINES CORPORATION                     ,A3/A-,-/-,3.45,Fixed,2026-02-19,,Secondary
+037833BY5,APPLE INC.                                                      ,Aaa/AA+,-/-,3.25,Fixed,2026-02-23,C 11/25@ 100,Secondary
+713448DF2,"PEPSICO CAPITAL RESOURCES, INC.                                 ",A1/A+,-/-,2.85,Fixed,2026-02-24,C 11/25@ 100,Secondary
+38143U8H7,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.75,Fixed,2026-02-25,C 11/25@ 100,Secondary
+718172BT5,PHILIP MORRIS INTERNATIONAL INC.                                ,A2/A,-/-,2.75,Fixed,2026-02-25,C 11/25@ 100,Secondary
+125523BZ2,CIGNA CORPORATION                                               ,Baa1/A-,-/-,4.5,Fixed,2026-02-25,C 11/25@ 100,Secondary
+17275RBC5,"CISCO SYSTEMS, INC.                                             ",A1/AA-,-/-,2.95,Fixed,2026-02-28,,Secondary
+907818EH7,UNION PACIFIC CORPORATION                                       ,Baa1/A-,-/-,2.75,Fixed,2026-03-01,C 12/25@ 100,Secondary
+478160BY9,JOHNSON & JOHNSON                                               ,Aaa/AAA,-/-,2.45,Fixed,2026-03-01,C 12/25@ 100,Secondary
+375558BF9,"GILEAD SCIENCES, INC.                                           ",A3/BBB+,-/-,3.65,Fixed,2026-03-01,C 12/25@ 100,Secondary
+20030NBS9,COMCAST CORPORATION                                             ,A3/A-,-/-,3.15,Fixed,2026-03-01,C 12/25@ 100,Secondary
+902494BJ1,"TYSON FOODS, INC.                                               ",Baa2/BBB+,-/-,4.0,Fixed,2026-03-01,C 1/26@ 100,Secondary
+445658CF2,"J. B. HUNT TRANSPORT SERVICES, INC.                             ",Baa1/BBB+,-/-,3.875,Fixed,2026-03-01,C 1/26@ 100,Secondary
+854502AK7,THE STANLEY WORKS                                               ,Baa1/A,-/-,3.4,Fixed,2026-03-01,C 1/26@ 100,Secondary
+06051GFU8,BANK OF AMERICA CORPORATION                                     ,Baa1/BBB+,-/-,4.45,Fixed,2026-03-03,,Secondary
+172967KJ9,CITIGROUP INC.                                                  ,Baa2/BBB,-/-,4.6,Fixed,2026-03-09,,Secondary
+571748AZ5,"MARSH & MCLENNAN COMPANIES, INC.                                ",Baa1/A-,-/-,3.75,Fixed,2026-03-14,C 12/25@ 100,Secondary
+91324PCV2,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,3.1,Fixed,2026-03-15,,Secondary
+67103HAE7,"OREILLY AUTOMOTIVE, INC.                                        ",Baa1/BBB,-/-,3.55,Fixed,2026-03-15,C 12/25@ 100,Secondary
+863667AN1,STRYKER CORPORATION                                             ,Baa1/A-,-/-,3.5,Fixed,2026-03-15,C 12/25@ 100,Secondary
+512807AS7,LAM RESEARCH CORPORATION                                        ,A2/A-,-/-,3.75,Fixed,2026-03-15,C 1/26@ 100,Secondary
+487836BP2,KELLOGG COMPANY                                                 ,Baa2/BBB,-/-,3.25,Fixed,2026-04-01,,Secondary
+29364DAU4,ENTERGY ARKANSAS INC.                                           ,A2/A,-/-,3.5,Fixed,2026-04-01,C 1/26@ 100,Secondary
+31428XBF2,FEDEX CORPORATION                                               ,Baa2/BBB,-/-,3.25,Fixed,2026-04-01,C 1/26@ 100,Secondary
+437076BM3,"THE HOME DEPOT, INC.                                            ",A2/A,-/-,3.0,Fixed,2026-04-01,C 1/26@ 100,Secondary
+46625HQW3,JPMORGAN CHASE & CO.                                            ,A2/A-,-/-,3.3,Fixed,2026-04-01,C 1/26@ 100,Secondary
+87612EBE5,TARGET CORPORATION                                              ,A2/A,-/-,2.5,Fixed,2026-04-15,,Secondary
+30161NAU5,EXELON CORPORATION                                              ,Baa2/BBB,-/-,3.4,Fixed,2026-04-15,C 1/26@ 100,Secondary
+548661DM6,"LOWES COMPANIES, INC.                                           ",Baa1/BBB+,-/-,2.5,Fixed,2026-04-15,C 1/26@ 100,Secondary
+68217FAA0,OMNICOM GROUP INC                                               ,Baa1/BBB+,-/-,3.6,Fixed,2026-04-15,C 1/26@ 100,Secondary
+06051GFX2,BANK OF AMERICA CORPORATION                                     ,A2/A-,-/-,3.5,Fixed,2026-04-19,,Secondary
+949746RW3,WELLS FARGO & COMPANY                                           ,A1/BBB+,-/-,3.0,Fixed,2026-04-22,,Secondary
+91159HHM5,U.S. BANCORP                                                    ,A2/A,-/-,3.1,Fixed,2026-04-27,C 3/26@ 100,Secondary
+02343UAG0,AMCOR FINANCE (USA) INC.                                        ,Baa2/BBB,-/-,3.625,Fixed,2026-04-28,C 1/26@ 100,Secondary
+172967KN0,CITIGROUP INC.                                                  ,A3/BBB+,-/-,3.4,Fixed,2026-05-01,,Secondary
+00440EAV9,ACE INA HOLDINGS INC.                                           ,A3/A,-/-,3.35,Fixed,2026-05-03,C 2/26@ 100,Secondary
+06406FAC7,BANK OF NEW YORK MELLON CORPORATION                             ,A1/A,-/-,2.8,Fixed,2026-05-04,C 2/26@ 100,Secondary
+00287YAY5,ABBVIE INC.                                                     ,Baa2/BBB+,-/-,3.2,Fixed,2026-05-14,C 2/26@ 100,Secondary
+459200JZ5,INTERNATIONAL BUSINESS MACHINES CORPORATION                     ,A3/A-,-/-,3.3,Fixed,2026-05-15,,Secondary
+797440BU7,SAN DIEGO GAS & ELECTRIC COMPANY                                ,A1/A,-/-,2.5,Fixed,2026-05-15,C 2/26@ 100,Secondary
+69352PAL7,PPL CAPITAL FUNDING INC.                                        ,Baa2/BBB+,-/-,3.1,Fixed,2026-05-15,C 2/26@ 100,Secondary
+857477AW3,STATE STREET CORPORATION                                        ,A1/A,-/-,2.65,Fixed,2026-05-19,,Secondary
+458140AU4,INTEL CORPORATION                                               ,A1/A+,-/-,2.6,Fixed,2026-05-19,C 2/26@ 100,Secondary
+025816CF4,AMERICAN EXPRESS COMPANY                                        ,A3/BBB+,-/-,3.125,Fixed,2026-05-20,C 4/26@ 100,Secondary
+74834LAZ3,QUEST DIAGNOSTICS INCORPORATED                                  ,Baa2/BBB+,-/-,3.45,Fixed,2026-06-01,C 3/26@ 100,Secondary
+741503AZ9,THE PRICELINE GROUP INC                                         ,A3/A-,-/-,3.6,Fixed,2026-06-01,C 3/26@ 100,Secondary
+126650CU2,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,2.875,Fixed,2026-06-01,C 3/26@ 100,Secondary
+931427AQ1,"WALGREENS BOOTS ALLIANCE, INC.                                  ",Baa2/BBB,-/-,3.45,Fixed,2026-06-01,C 3/26@ 100,Secondary
+717081DV2,PFIZER INC.                                                     ,A2/A+,-/-,2.75,Fixed,2026-06-03,,Secondary
+94974BFY1,WELLS FARGO & COMPANY                                           ,A3/BBB,-/-,4.1,Fixed,2026-06-03,,Secondary
+24422ETH2,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,2.65,Fixed,2026-06-10,,Secondary
+855244AK5,STARBUCKS CORPORATION                                           ,Baa1/BBB+,-/-,2.45,Fixed,2026-06-15,C 3/26@ 100,Secondary
+202795JH4,COMMONWEALTH EDISON COMPANY                                     ,A1/A,-/-,2.55,Fixed,2026-06-15,C 3/26@ 100,Secondary
+46625HRS1,JPMORGAN CHASE & CO.                                            ,A2/A-,-/-,3.2,Fixed,2026-06-15,C 3/26@ 100,Secondary
+34959JAG3,FORTIVE CORPORATION                                             ,Baa1/BBB,-/-,3.15,Fixed,2026-06-15,C 3/26@ 100,Secondary
+842434CQ3,SOUTHERN CALIFORNIA GAS COMPANY                                 ,Aa3/A+,-/-,2.6,Fixed,2026-06-15,C 3/26@ 100,Secondary
+655844BS6,NORFOLK SOUTHERN CORPORATION                                    ,Baa1/BBB+,-/-,2.9,Fixed,2026-06-15,C 3/26@ 100,Secondary
+11133TAC7,BROADRIDGE FINANCIAL SOLUTIONS INC.                             ,Baa1/BBB+,-/-,3.4,Fixed,2026-06-27,C 3/26@ 100,Secondary
+631103AG3,NASDAQ INC                                                      ,Baa2/BBB+,-/-,3.85,Fixed,2026-06-30,C 3/26@ 100,Secondary
+84610WAB1,SOVRAN ACQUISITION LIMITED PARTNERSHIP                          ,Baa2/BBB,-/-,3.5,Fixed,2026-07-01,C 4/26@ 100,Secondary
+842587CV7,SOUTHERN COMPANY                                                ,Baa2/BBB,-/-,3.25,Fixed,2026-07-01,C 4/26@ 100,Secondary
+760759AR1,"REPUBLIC SERVICES, INC.                                         ",Baa2/BBB+,-/-,2.9,Fixed,2026-07-01,C 4/26@ 100,Secondary
+337738AT5,FISERV INC.                                                     ,Baa2/BBB,-/-,3.2,Fixed,2026-07-01,C 5/26@ 100,Secondary
+931142EM1,WALMART INC                                                     ,Aa2/AA,-/-,3.05,Fixed,2026-07-08,C 5/26@ 100,Secondary
+68389XBM6,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,2.65,Fixed,2026-07-15,C 4/26@ 100,Secondary
+40414LAQ2,HCP INC                                                         ,Baa1/BBB+,-/-,3.25,Fixed,2026-07-15,C 5/26@ 100,Secondary
+91159HHN3,U.S. BANCORP                                                    ,A2/A+,-/-,2.375,Fixed,2026-07-22,C 6/26@ 100,Secondary
+693475AX3,PNC FINANCIAL SERVICES GROUP INC                                ,A3/A-,-/-,2.6,Fixed,2026-07-23,C 5/26@ 100,Secondary
+61761J3R8,MORGAN STANLEY                                                  ,A1/BBB+,-/-,3.125,Fixed,2026-07-27,,Secondary
+037833BZ2,APPLE INC.                                                      ,Aaa/AA+,-/-,2.45,Fixed,2026-08-04,C 5/26@ 100,Secondary
+039483BL5,ARCHER-DANIELS-MIDLAND COMPANY                                  ,A2/A,-/-,2.5,Fixed,2026-08-11,C 5/26@ 100,Secondary
+92343VDD3,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,2.625,Fixed,2026-08-15,,Secondary
+369550AX6,GENERAL DYNAMICS CORPORATION                                    ,A3/A-,-/-,2.125,Fixed,2026-08-15,C 5/26@ 100,Secondary
+025932AK0,"AMERICAN FINANCIAL GROUP, INC.                                  ",Baa1/BBB+,-/-,3.5,Fixed,2026-08-15,C 5/26@ 100,Secondary
+071813BQ1,"BAXTER INTERNATIONAL, INC.                                      ",Baa2/BBB,-/-,2.6,Fixed,2026-08-15,C 5/26@ 100,Secondary
+126650DF4,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,3.0,Fixed,2026-08-15,C 6/26@ 100,Secondary
+06406FAE3,BANK OF NEW YORK MELLON CORPORATION                             ,A1/A,-/-,2.45,Fixed,2026-08-17,C 5/26@ 100,Secondary
+031162CJ7,AMGEN INC.                                                      ,Baa1/A-,-/-,2.6,Fixed,2026-08-19,C 5/26@ 100,Secondary
+29364GAJ2,ENTERGY CORPORATION                                             ,Baa2/BBB,-/-,2.95,Fixed,2026-09-01,C 6/26@ 100,Secondary
+26441CAS4,DUKE ENERGY CORP                                                ,Baa2/BBB,-/-,2.65,Fixed,2026-09-01,C 6/26@ 100,Secondary
+22966RAD8,CUBESMART L.P.                                                  ,Baa2/BBB,-/-,3.125,Fixed,2026-09-01,C 6/26@ 100,Secondary
+6174467Y9,MORGAN STANLEY                                                  ,Baa1/BBB,-/-,4.35,Fixed,2026-09-08,,Secondary
+037833DN7,APPLE INC.                                                      ,Aaa/AA+,-/-,2.05,Fixed,2026-09-11,C 7/26@ 100,Secondary
+24422EVB2,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,2.25,Fixed,2026-09-14,,Secondary
+00507VAK5,ACTIVISION BLIZZARD INC                                         ,Baa1/A-,-/-,3.4,Fixed,2026-09-15,C 6/26@ 100,Secondary
+03076CAH9,"AMERIPRISE FINANCIAL, INC.                                      ",A3/A-,-/-,2.875,Fixed,2026-09-15,C 6/26@ 100,Secondary
+872540AQ2,THE TJX COMPANIES INC.                                          ,A2/A,-/-,2.25,Fixed,2026-09-15,C 6/26@ 100,Secondary
+437076BN1,"THE HOME DEPOT, INC.                                            ",A2/A,-/-,2.125,Fixed,2026-09-15,C 6/26@ 100,Secondary
+02209SAU7,"ALTRIA GROUP, INC.                                              ",A3/BBB,-/-,2.625,Fixed,2026-09-16,C 6/26@ 100,Secondary
+67066GAE4,NVIDIA CORP                                                     ,A2/A-,-/-,3.2,Fixed,2026-09-16,C 6/26@ 100,Secondary
+88579YAV3,3M COMPANY                                                      ,A1/A+,-/-,2.25,Fixed,2026-09-19,C 6/26@ 100,Secondary
+17275RBL5,"CISCO SYSTEMS, INC.                                             ",A1/AA-,-/-,2.5,Fixed,2026-09-20,C 6/26@ 100,Secondary
+00846UAK7,AGILENT TECHNOLOGIES INC.                                       ,Baa2/BBB+,-/-,3.05,Fixed,2026-09-22,C 6/26@ 100,Secondary
+49446RAP4,KIMCO REALTY CORPORATION                                        ,Baa1/BBB+,-/-,2.8,Fixed,2026-10-01,C 7/26@ 100,Secondary
+10112RAY0,BOSTON PROPERTIES LIMITED PARTNERSHIP                           ,Baa1/BBB+,-/-,2.75,Fixed,2026-10-01,C 7/26@ 100,Secondary
+46625HRV4,JPMORGAN CHASE & CO.                                            ,A2/A-,-/-,2.95,Fixed,2026-10-01,C 7/26@ 100,Secondary
+70450YAD5,PAYPAL HOLDINGS INCORPORATION                                   ,A3/A-,-/-,2.65,Fixed,2026-10-01,C 8/26@ 100,Secondary
+713448DN5,"PEPSICO CAPITAL RESOURCES, INC.                                 ",A1/A+,-/-,2.375,Fixed,2026-10-06,C 7/26@ 100,Secondary
+001055AQ5,AFLAC INCORPORATED                                              ,A3/A-,-/-,2.875,Fixed,2026-10-15,C 7/26@ 100,Secondary
+501044DE8,THE KROGER CO.                                                  ,Baa1/BBB,-/-,2.65,Fixed,2026-10-15,C 7/26@ 100,Secondary
+756109AR5,REALTY INCOME CORPORATION                                       ,A3/A-,-/-,4.125,Fixed,2026-10-15,C 7/26@ 100,Secondary
+172967KY6,CITIGROUP INC.                                                  ,A3/BBB+,-/-,3.2,Fixed,2026-10-21,C 7/26@ 100,Secondary
+06051GFL8,BANK OF AMERICA CORPORATION                                     ,Baa1/BBB+,-/-,4.25,Fixed,2026-10-22,,Secondary
+949746SH5,WELLS FARGO & COMPANY                                           ,A1/BBB+,-/-,3.0,Fixed,2026-10-23,,Secondary
+26884ABF9,ERP OPERATING LIMITED PARTNERSHIP                               ,A3/A-,-/-,2.85,Fixed,2026-11-01,C 8/26@ 100,Secondary
+26442CAS3,DUKE ENERGY CORPORATION                                         ,Aa3/A,-/-,2.95,Fixed,2026-12-01,C 9/26@ 100,Secondary
+032654AN5,ANALOG DEVICES INC.                                             ,A3/A-,-/-,3.5,Fixed,2026-12-05,C 9/26@ 100,Secondary
+534187BF5,LINCOLN NATIONAL CORPORATION                                    ,Baa1/A-,-/-,3.625,Fixed,2026-12-12,C 9/26@ 100,Secondary
+46625HJZ4,JPMORGAN CHASE & CO.                                            ,A3/BBB+,-/-,4.125,Fixed,2026-12-15,,Secondary
+717081EA7,PFIZER INC.                                                     ,A2/A+,-/-,3.0,Fixed,2026-12-15,,Secondary
+03939CAA1,ARCH CAPITAL FINANCE LLC                                        ,Baa1/A-,-/-,4.011,Fixed,2026-12-15,C 9/26@ 100,Secondary
+743315AR4,THE PROGRESSIVE CORPORATION                                     ,A2/A,-/-,2.45,Fixed,2027-01-15,,Secondary
+91324PCW0,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,3.45,Fixed,2027-01-15,,Secondary
+26444HAC5,"DUKE ENERGY FLORIDA, LLC                                        ",A1/A,-/-,3.2,Fixed,2027-01-15,C 10/26@ 100,Secondary
+124857AR4,CBS CORPORATION                                                 ,Baa2/BBB,-/-,2.9,Fixed,2027-01-15,C 10/26@ 100,Secondary
+756109AS3,REALTY INCOME CORPORATION                                       ,A3/A-,-/-,3.0,Fixed,2027-01-15,C 10/26@ 100,Secondary
+20030NBW0,COMCAST CORPORATION                                             ,A3/A-,-/-,2.35,Fixed,2027-01-15,C 10/26@ 100,Secondary
+61746BEF9,MORGAN STANLEY                                                  ,A1/BBB+,-/-,3.625,Fixed,2027-01-20,,Secondary
+38141GWB6,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.85,Fixed,2027-01-26,C 1/26@ 100,Secondary
+459200JR3,INTERNATIONAL BUSINESS MACHINES CORPORATION                     ,A3/A-,-/-,3.3,Fixed,2027-01-27,,Secondary
+20030NBY6,COMCAST CORPORATION                                             ,A3/A-,-/-,3.3,Fixed,2027-02-01,C 11/26@ 100,Secondary
+75884RAV5,"REGENCY CENTERS, L.P.                                           ",Baa1/BBB+,-/-,3.6,Fixed,2027-02-01,C 11/26@ 100,Secondary
+666807BK7,NORTHROP GRUMMAN CORPORATION                                    ,Baa1/BBB+,-/-,3.2,Fixed,2027-02-01,C 11/26@ 100,Secondary
+00724PAC3,ADOBE INC                                                       ,A2/A+,-/-,2.15,Fixed,2027-02-01,C 12/26@ 100,Secondary
+594918BY9,MICROSOFT CORPORATION                                           ,Aaa/AAA,-/-,3.3,Fixed,2027-02-06,C 11/26@ 100,Secondary
+037833CJ7,APPLE INC.                                                      ,Aaa/AA+,-/-,3.35,Fixed,2027-02-09,C 11/26@ 100,Secondary
+370334BZ6,"GENERAL MILLS, INC.                                             ",Baa2/BBB,-/-,3.2,Fixed,2027-02-10,C 11/26@ 100,Secondary
+031162CT5,AMGEN INC.                                                      ,Baa1/A-,-/-,2.2,Fixed,2027-02-21,C 12/26@ 100,Secondary
+125523CB4,CIGNA CORPORATION                                               ,Baa1/A-,-/-,3.4,Fixed,2027-03-01,C 12/26@ 100,Secondary
+58013MFB5,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,3.5,Fixed,2027-03-01,C 12/26@ 100,Secondary
+808513AQ8,THE CHARLES SCHWAB CORPORATION                                  ,A2/A,-/-,3.2,Fixed,2027-03-02,C 12/26@ 100,Secondary
+478160CE2,JOHNSON & JOHNSON                                               ,Aaa/AAA,-/-,2.95,Fixed,2027-03-03,C 12/26@ 100,Secondary
+14040HBN4,CAPITAL ONE FINANCIAL CORPORATION                               ,Baa1/BBB,-/-,3.75,Fixed,2027-03-09,C 2/27@ 100,Secondary
+855244AV1,STARBUCKS CORPORATION                                           ,Baa1/BBB+,-/-,2.0,Fixed,2027-03-12,C 1/27@ 100,Secondary
+09247XAN1,"BLACKROCK, INC.                                                 ",Aa3/AA-,-/-,3.2,Fixed,2027-03-15,,Secondary
+92343VDY7,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,4.125,Fixed,2027-03-16,,Secondary
+713448ER5,PEPSICO INC                                                     ,A1/A+,-/-,2.625,Fixed,2027-03-19,C 1/27@ 100,Secondary
+92343VFF6,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,3.0,Fixed,2027-03-22,C 1/27@ 100,Secondary
+742718FG9,THE PROCTER & GAMBLE COMPANY                                    ,Aa3/AA-,-/-,2.8,Fixed,2027-03-25,,Secondary
+191216CR9,THE COCA-COLA COMPANY                                           ,A1/A+,-/-,3.375,Fixed,2027-03-25,,Secondary
+458140BQ2,INTEL CORPORATION                                               ,A1/A+,-/-,3.75,Fixed,2027-03-25,C 1/27@ 100,Secondary
+57636QAR5,MASTERCARD INCORPORATED                                         ,A1/A+,-/-,3.3,Fixed,2027-03-26,C 1/27@ 100,Secondary
+654106AJ2,"NIKE, INC.                                                      ",A1/AA-,-/-,2.75,Fixed,2027-03-27,C 1/27@ 100,Secondary
+038222AL9,APPLIED MATERIALS INC.                                          ,A2/A,-/-,3.3,Fixed,2027-04-01,C 1/27@ 100,Secondary
+17252MAN0,CINTAS CORPORATION NO. 2                                        ,A3/A-,-/-,3.7,Fixed,2027-04-01,C 1/27@ 100,Secondary
+68389XBU8,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,2.8,Fixed,2027-04-01,C 2/27@ 100,Secondary
+126650DH0,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,3.625,Fixed,2027-04-01,C 2/27@ 100,Secondary
+369550BL1,GENERAL DYNAMICS CORPORATION                                    ,A3/A-,-/-,3.5,Fixed,2027-04-01,C 2/27@ 100,Secondary
+20030NDK4,COMCAST CORPORATION                                             ,A3/A-,-/-,3.3,Fixed,2027-04-01,C 2/27@ 100,Secondary
+666807BN1,NORTHROP GRUMMAN CORPORATION                                    ,Baa1/BBB+,-/-,3.25,Fixed,2028-01-15,C 10/27@ 100,Secondary
+478160CK8,JOHNSON & JOHNSON                                               ,Aaa/AAA,-/-,2.9,Fixed,2028-01-15,C 10/27@ 100,Secondary
+756109AU8,REALTY INCOME CORPORATION                                       ,A3/A-,-/-,3.65,Fixed,2028-01-15,C 10/27@ 100,Secondary
+808513AU9,THE CHARLES SCHWAB CORPORATION                                  ,A2/A,-/-,3.2,Fixed,2028-01-25,C 10/27@ 100,Secondary
+06406RAF4,BANK OF NEW YORK MELLON CORPORATION                             ,A1/A,-/-,3.4,Fixed,2028-01-29,C 10/27@ 100,Secondary
+14040HBW4,CAPITAL ONE FINANCIAL CORPORATION                               ,Baa1/BBB,-/-,3.8,Fixed,2028-01-31,C 12/27@ 100,Secondary
+816851BG3,SEMPRA ENERGY                                                   ,Baa2/BBB,-/-,3.4,Fixed,2028-02-01,C 11/27@ 100,Secondary
+20030NCA7,COMCAST CORPORATION                                             ,A3/A-,-/-,3.15,Fixed,2028-02-15,C 11/27@ 100,Secondary
+124857AT0,CBS CORPORATION                                                 ,Baa2/BBB,-/-,3.375,Fixed,2028-02-15,C 11/27@ 100,Secondary
+57636QAJ3,MASTERCARD INCORPORATED                                         ,A1/A+,-/-,3.5,Fixed,2028-02-26,C 11/27@ 100,Secondary
+036752AG8,ANTHEM INC                                                      ,Baa2/A,-/-,4.101,Fixed,2028-03-01,C 12/27@ 100,Secondary
+534187BH1,LINCOLN NATIONAL CORPORATION                                    ,Baa1/A-,-/-,3.8,Fixed,2028-03-01,C 12/27@ 100,Secondary
+26884ABJ1,ERP OPERATING LIMITED PARTNERSHIP                               ,A3/A-,-/-,3.5,Fixed,2028-03-01,C 12/27@ 100,Secondary
+49456BAP6,"KINDER MORGAN, INC.                                             ",Baa2/BBB,-/-,4.3,Fixed,2028-03-01,C 12/27@ 100,Secondary
+92277GAM9,VENTAS REALTY L.P./VENTAS CAPITAL CORP.                         ,Baa1/BBB+,-/-,4.0,Fixed,2028-03-01,C 12/27@ 100,Secondary
+855244AP4,STARBUCKS CORPORATION                                           ,Baa1/BBB+,-/-,3.5,Fixed,2028-03-01,C 12/27@ 100,Secondary
+126408HJ5,CSX CORPORATION                                                 ,Baa1/BBB+,-/-,3.8,Fixed,2028-03-01,C 12/27@ 100,Secondary
+718172CE7,PHILIP MORRIS INTERNATIONAL INC.                                ,A2/A,-/-,3.125,Fixed,2028-03-02,C 12/27@ 100,Secondary
+863667AQ4,STRYKER CORPORATION                                             ,Baa1/A-,-/-,3.65,Fixed,2028-03-07,C 12/27@ 100,Secondary
+693506BP1,"PPG INDUSTRIES, INC.                                            ",A3/BBB+,-/-,3.75,Fixed,2028-03-15,C 12/27@ 100,Secondary
+741503BC9,THE PRICELINE GROUP INC                                         ,A3/A-,-/-,3.55,Fixed,2028-03-15,C 12/27@ 100,Secondary
+808513BP9,THE CHARLES SCHWAB CORPORATION                                  ,A2/A,-/-,2.0,Fixed,2028-03-20,C 1/28@ 100,Secondary
+92343VGH1,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,2.1,Fixed,2028-03-22,C 1/28@ 100,Secondary
+68389XCD5,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,2.3,Fixed,2028-03-25,C 1/28@ 100,Secondary
+79466LAF1,"SALESFORCE.COM, INC.                                            ",A2/A+,-/-,3.7,Fixed,2028-04-11,C 1/28@ 100,Secondary
+084659AM3,BERKSHIRE HATHAWAY ENERGY COMPANY                               ,A3/A-,-/-,3.25,Fixed,2028-04-15,C 1/28@ 100,Secondary
+20030NCH2,COMCAST CORPORATION                                             ,A3/A-,-/-,3.55,Fixed,2028-05-01,C 2/28@ 100,Secondary
+74456QBU9,PUBLIC SERVICE ELECTRIC AND GAS COMPANY                         ,A1/A,-/-,3.7,Fixed,2028-05-01,C 2/28@ 100,Secondary
+369550BC1,GENERAL DYNAMICS CORPORATION                                    ,A3/A-,-/-,3.75,Fixed,2028-05-15,C 2/28@ 100,Secondary
+189054AW9,THE CLOROX COMPANY                                              ,Baa1/A-,-/-,3.9,Fixed,2028-05-15,C 2/28@ 100,Secondary
+256746AH1,DOLLAR TREE INC                                                 ,Baa2/BBB,-/-,4.2,Fixed,2028-05-15,C 2/28@ 100,Secondary
+760759AT7,"REPUBLIC SERVICES, INC.                                         ",Baa2/BBB+,-/-,3.95,Fixed,2028-05-15,C 2/28@ 100,Secondary
+78486QAH4,SVB FINANCIAL GROUP                                             ,A3/BBB,-/-,2.1,Fixed,2028-05-15,C 3/28@ 100,Secondary
+124857AX1,CBS CORPORATION                                                 ,Baa2/BBB,-/-,3.7,Fixed,2028-06-01,C 3/28@ 100,Secondary
+98389BAV2,XCEL ENERGY INC                                                 ,Baa1/BBB+,-/-,4.0,Fixed,2028-06-15,C 12/27@ 100,Secondary
+12572QAJ4,CME GROUP INC.                                                  ,Aa3/AA-,-/-,3.75,Fixed,2028-06-15,C 3/28@ 100,Secondary
+26444HAE1,"DUKE ENERGY FLORIDA, LLC                                        ",A1/A,-/-,3.8,Fixed,2028-07-15,C 4/28@ 100,Secondary
+172967KU4,CITIGROUP INC.                                                  ,Baa2/BBB,-/-,4.125,Fixed,2028-07-25,,Secondary
+655844BZ0,NORFOLK SOUTHERN CORPORATION                                    ,Baa1/BBB+,-/-,3.8,Fixed,2028-08-01,C 5/28@ 100,Secondary
+665859AT1,NORTHERN TRUST CORPORATION                                      ,A2/A+,-/-,3.65,Fixed,2028-08-03,C 5/28@ 100,Secondary
+202795JN1,COMMONWEALTH EDISON COMPANY                                     ,A1/A,-/-,3.7,Fixed,2028-08-15,C 5/28@ 100,Secondary
+98978VAN3,ZOETIS INC.                                                     ,Baa1/BBB,-/-,3.9,Fixed,2028-08-20,C 5/28@ 100,Secondary
+45687AAP7,INGERSOLL-RAND GLOBAL HOLDINGS COMPANY LIMITED                  ,Baa2/BBB,-/-,3.75,Fixed,2028-08-21,C 5/28@ 100,Secondary
+26442UAG9,DUKE ENERGY PROGRESS INC                                        ,Aa3/A,-/-,3.7,Fixed,2028-09-01,C 6/28@ 100,Secondary
+03040WAS4,AMERICAN WATER CAPITAL CORP                                     ,Baa1/A,-/-,3.75,Fixed,2028-09-01,C 6/28@ 100,Secondary
+88579YBC4,3M COMPANY                                                      ,A1/A+,-/-,3.625,Fixed,2028-09-14,C 6/28@ 100,Secondary
+717081EP4,PFIZER INC.                                                     ,A2/A+,-/-,3.6,Fixed,2028-09-15,C 6/28@ 100,Secondary
+45866FAJ3,INTERCONTINENTAL EXCHANGE INC                                   ,A3/A-,-/-,3.75,Fixed,2028-09-21,C 6/28@ 100,Secondary
+06406GAA9,THE BANK OF NEW YORK MELLON CORPORATION                         ,A2/A-,-/-,3.0,Fixed,2028-10-30,C 7/28@ 100,Secondary
+92343VES9,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,3.875,Fixed,2029-02-08,C 11/28@ 100,Secondary
+842400GQ0,SOUTHERN CALIFORNIA EDISON COMPANY                              ,A3/A-,-/-,4.2,Fixed,2029-03-01,C 12/28@ 100,Secondary
+907818FB9,UNION PACIFIC CORPORATION                                       ,Baa1/A-,-/-,3.7,Fixed,2029-03-01,C 12/28@ 100,Secondary
+88579YBG5,3M COMPANY                                                      ,A1/A+,-/-,3.375,Fixed,2029-03-01,C 12/28@ 100,Secondary
+29717PAT4,ESSEX PORTFOLIO LP                                              ,Baa1/BBB+,-/-,4.0,Fixed,2029-03-01,C 12/28@ 100,Secondary
+24422EUU1,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,3.45,Fixed,2029-03-07,,Secondary
+58933YAX3,"MERCK & CO., INC                                                ",A1/A+,-/-,3.4,Fixed,2029-03-07,C 12/28@ 100,Secondary
+911312BR6,"UNITED PARCEL SERVICE, INC.                                     ",A2/A-,-/-,3.4,Fixed,2029-03-15,C 12/28@ 100,Secondary
+92345YAF3,"VERISK ANALYTICS, INC.                                          ",Baa2/BBB,-/-,4.125,Fixed,2029-03-15,C 12/28@ 100,Secondary
+59523UAQ0,"MID-AMERICA APARTMENTS, L.P.                                    ",Baa1/BBB+,-/-,3.95,Fixed,2029-03-15,C 12/28@ 100,Secondary
+532457BV9,ELI LILLY AND COMPANY                                           ,A2/A+,-/-,3.375,Fixed,2029-03-15,C 12/28@ 100,Secondary
+717081ET6,PFIZER INC.                                                     ,A2/A+,-/-,3.45,Fixed,2029-03-15,C 12/28@ 100,Secondary
+05531GAB7,BB&T CORPORATION                                                ,A3/BBB+,-/-,3.875,Fixed,2029-03-19,C 2/29@ 100,Secondary
+65339KBJ8,NEXTERA ENERGY CAPITAL HLDGS INC                                ,Baa1/BBB+,-/-,3.5,Fixed,2029-04-01,C 1/29@ 100,Secondary
+548661DR5,"LOWES COMPANIES, INC.                                           ",Baa1/BBB+,-/-,3.65,Fixed,2029-04-05,C 1/29@ 100,Secondary
+87612EBH8,TARGET CORPORATION                                              ,A2/A,-/-,3.375,Fixed,2029-04-15,C 1/29@ 100,Secondary
+053332AW2,"AUTOZONE, INC.                                                  ",Baa1/BBB,-/-,3.75,Fixed,2029-04-18,C 1/29@ 100,Secondary
+693475AW5,PNC FINANCIAL SERVICES GROUP INC                                ,A3/A-,-/-,3.45,Fixed,2029-04-23,C 1/29@ 100,Secondary
+494368BZ5,KIMBERLY-CLARK CORPORATION                                      ,A2/A,-/-,3.2,Fixed,2029-04-25,C 1/29@ 100,Secondary
+09247XAP6,"BLACKROCK, INC.                                                 ",Aa3/AA-,-/-,3.25,Fixed,2029-04-30,C 1/29@ 100,Secondary
+641423CC0,NEVADA POWER COMPANY                                            ,A2/A+,-/-,3.7,Fixed,2029-05-01,C 2/29@ 100,Secondary
+037389BC6,AON CORPORATION                                                 ,Baa2/A-,-/-,3.75,Fixed,2029-05-02,C 2/29@ 100,Secondary
+665859AU8,NORTHERN TRUST CORPORATION                                      ,A2/A+,-/-,3.15,Fixed,2029-05-03,C 2/29@ 100,Secondary
+459200KA8,INTERNATIONAL BUSINESS MACHINES CORPORATION                     ,A3/A-,-/-,3.5,Fixed,2029-05-15,,Secondary
+67021CAN7,NSTAR ELECTRIC COMPANY                                          ,A1/A,-/-,3.25,Fixed,2029-05-15,C 2/29@ 100,Secondary
+74251VAR3,PRINCIPAL FINANCIAL GROUP                                       ,Baa1/A-,-/-,3.7,Fixed,2029-05-15,C 2/29@ 100,Secondary
+31620MBJ4,FIDELITY NATIONAL INFORMATION SERVICES                          ,Baa2/BBB,-/-,3.75,Fixed,2029-05-21,C 2/29@ 100,Secondary
+808513BA2,THE CHARLES SCHWAB CORPORATION                                  ,A2/A,-/-,3.25,Fixed,2029-05-22,C 2/29@ 100,Secondary
+67103HAH0,"OREILLY AUTOMOTIVE, INC.                                        ",Baa1/BBB,-/-,3.9,Fixed,2029-06-01,C 3/29@ 100,Secondary
+03040WAU9,AMERICAN WATER CAPITAL CORP                                     ,Baa1/A,-/-,3.45,Fixed,2029-06-01,C 3/29@ 100,Secondary
+57636QAM6,MASTERCARD INCORPORATED                                         ,A1/A+,-/-,2.95,Fixed,2029-06-01,C 3/29@ 100,Secondary
+720186AL9,"PIEDMONT NATURAL GAS COMPANY, INC.                              ",A3/BBB+,-/-,3.5,Fixed,2029-06-01,C 3/29@ 100,Secondary
+94106LBQ1,"WASTE MANAGEMENT, INC.                                          ",Baa1/A-,-/-,2.0,Fixed,2029-06-01,C 4/29@ 100,Secondary
+701094AN4,PARKER-HANNIFIN CORPORATION                                     ,Baa1/BBB+,-/-,3.25,Fixed,2029-06-14,C 3/29@ 100,Secondary
+437076BY7,"THE HOME DEPOT, INC.                                            ",A2/A,-/-,2.95,Fixed,2029-06-15,C 3/29@ 100,Secondary
+53227JAB0,LIFE STORAGE LP                                                 ,Baa2/BBB,-/-,4.0,Fixed,2029-06-15,C 3/29@ 100,Secondary
+756109AW4,REALTY INCOME CORPORATION                                       ,A3/A-,-/-,3.25,Fixed,2029-06-15,C 3/29@ 100,Secondary
+10112RBB9,BOSTON PROPERTIES LIMITED PARTNERSHIP                           ,Baa1/BBB+,-/-,3.4,Fixed,2029-06-21,C 3/29@ 100,Secondary
+25389JAU0,"DIGITAL REALTY TRUST, L.P.                                      ",Baa2/BBB,-/-,3.6,Fixed,2029-07-01,C 4/29@ 100,Secondary
+26884ABL6,ERP OPERATING LIMITED PARTNERSHIP                               ,A3/A-,-/-,3.0,Fixed,2029-07-01,C 4/29@ 100,Secondary
+337738AU2,FISERV INC.                                                     ,Baa2/BBB,-/-,3.5,Fixed,2029-07-01,C 4/29@ 100,Secondary
+133131AX0,CAMDEN PROPERTY TRUST                                           ,A3/A-,-/-,3.15,Fixed,2029-07-01,C 4/29@ 100,Secondary
+931142EN9,WALMART INC                                                     ,Aa2/AA,-/-,3.25,Fixed,2029-07-08,C 4/29@ 100,Secondary
+40414LAR0,HCP INC                                                         ,Baa1/BBB+,-/-,3.5,Fixed,2029-07-15,C 4/29@ 100,Secondary
+24422EUY3,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,2.8,Fixed,2029-07-18,,Secondary
+713448EL8,PEPSICO INC                                                     ,A1/A+,-/-,2.625,Fixed,2029-07-29,C 4/29@ 100,Secondary
+91159HHW3,U.S. BANCORP                                                    ,A2/A,-/-,3.0,Fixed,2029-07-30,C 4/29@ 100,Secondary
+29379VBV4,ENTERPRISE PRODUCTS OPERATING LLC                               ,Baa1/BBB+,-/-,3.125,Fixed,2029-07-31,C 4/29@ 100,Secondary
+842400GS6,SOUTHERN CALIFORNIA EDISON COMPANY                              ,A3/A-,-/-,2.85,Fixed,2029-08-01,C 5/29@ 100,Secondary
+31428XBV7,FEDEX CORPORATION                                               ,Baa2/BBB,-/-,3.1,Fixed,2029-08-05,C 5/29@ 100,Secondary
+91324PDS8,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,2.875,Fixed,2029-08-15,,Secondary
+824348BJ4,THE SHERWIN-WILLIAMS COMPANY                                    ,Baa2/BBB,-/-,2.95,Fixed,2029-08-15,C 5/29@ 100,Secondary
+48203RAM6,JUNIPER NETWORKS                                                ,Baa2/BBB,-/-,3.75,Fixed,2029-08-15,C 5/29@ 100,Secondary
+718172CJ6,PHILIP MORRIS INTERNATIONAL INC.                                ,A2/A,-/-,3.375,Fixed,2029-08-15,C 5/29@ 100,Secondary
+855244AT6,STARBUCKS CORPORATION                                           ,Baa1/BBB+,-/-,3.55,Fixed,2029-08-15,C 5/29@ 100,Secondary
+438516BU9,HONEYWELL INTERNATIONAL INC.                                    ,A2/A,-/-,2.7,Fixed,2029-08-15,C 5/29@ 100,Secondary
+126650DG2,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,3.25,Fixed,2029-08-15,C 5/29@ 100,Secondary
+416515BE3,"THE HARTFORD FINANCIAL SERVICES GROUP, INC.                     ",Baa1/BBB+,-/-,2.8,Fixed,2029-08-19,C 5/29@ 100,Secondary
+06406YAA0,BANK OF NEW YORK MELLON CORPORATION                             ,A2/A-,-/-,3.3,Fixed,2029-08-23,C 5/29@ 100,Secondary
+88579YBJ9,3M COMPANY                                                      ,A1/A+,-/-,2.375,Fixed,2029-08-26,C 5/29@ 100,Secondary
+58013MFJ8,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,2.625,Fixed,2029-09-01,C 6/29@ 100,Secondary
+882508BG8,TEXAS INSTRUMENTS INCORPORATED                                  ,Aa3/A+,-/-,2.25,Fixed,2029-09-04,C 6/29@ 100,Secondary
+191216CM0,THE COCA-COLA COMPANY                                           ,A1/A+,-/-,2.125,Fixed,2029-09-06,,Secondary
+037833DP2,APPLE INC.                                                      ,Aaa/AA+,-/-,2.2,Fixed,2029-09-11,C 6/29@ 100,Secondary
+828807DF1,"SIMON PROPERTY GROUP, L.P.                                      ",A3/A-,-/-,2.45,Fixed,2029-09-13,C 6/29@ 100,Secondary
+373334KL4,GEORGIA POWER COMPANY                                           ,Baa1/BBB+,-/-,2.65,Fixed,2029-09-15,C 6/29@ 100,Secondary
+00846UAL5,AGILENT TECHNOLOGIES INC.                                       ,Baa2/BBB+,-/-,2.75,Fixed,2029-09-15,C 6/29@ 100,Secondary
+036752AL7,ANTHEM INC                                                      ,Baa2/A,-/-,2.875,Fixed,2029-09-15,C 6/29@ 100,Secondary
+30034WAB2,EVERGY INC                                                      ,Baa2/BBB+,-/-,2.9,Fixed,2029-09-15,C 6/29@ 100,Secondary
+776743AG1,ROPER TECHNOLOGIES INC                                          ,Baa2/BBB+,-/-,2.95,Fixed,2029-09-15,C 6/29@ 100,Secondary
+570535AU8,MARKEL CORPORATION                                              ,Baa2/BBB,-/-,3.35,Fixed,2029-09-17,C 6/29@ 100,Secondary
+149123CG4,CATERPILLAR INC                                                 ,A2/A,-/-,2.6,Fixed,2029-09-19,C 6/29@ 100,Secondary
+931142EQ2,WALMART INC                                                     ,Aa2/AA,-/-,2.375,Fixed,2029-09-24,C 6/29@ 100,Secondary
+49326EEJ8,KEYCORP                                                         ,Baa1/BBB+,-/-,2.55,Fixed,2029-10-01,,Secondary
+70450YAE3,PAYPAL HOLDINGS INCORPORATION                                   ,A3/A-,-/-,2.85,Fixed,2029-10-01,C 7/29@ 100,Secondary
+883556BZ4,THERMO FISHER SCIENTIFIC INC                                    ,Baa1/BBB+,-/-,2.6,Fixed,2029-10-01,C 7/29@ 100,Secondary
+651639AX4,NEWMONT GOLDCORP CORPORATION                                    ,Baa1/BBB,-/-,2.8,Fixed,2029-10-01,C 7/29@ 100,Secondary
+49338LAF0,"KEYSIGHT TECHNOLOGIES, INC.                                     ",Baa2/BBB,-/-,3.0,Fixed,2029-10-30,C 7/29@ 100,Secondary
+65339KBM1,NEXTERA ENERGY CAPITAL HLDGS INC                                ,Baa1/BBB+,-/-,2.75,Fixed,2029-11-01,C 8/29@ 100,Secondary
+458140BH2,INTEL CORPORATION                                               ,A1/A+,-/-,2.45,Fixed,2029-11-15,C 8/29@ 100,Secondary
+00287YBX6,ABBVIE INC.                                                     ,Baa2/BBB+,-/-,3.2,Fixed,2029-11-21,C 8/29@ 100,Secondary
+98389BAW0,XCEL ENERGY INC                                                 ,Baa1/BBB+,-/-,2.6,Fixed,2029-12-01,C 6/29@ 100,Secondary
+11133TAD5,BROADRIDGE FINANCIAL SOLUTIONS INC.                             ,Baa1/BBB+,-/-,2.9,Fixed,2029-12-01,C 9/29@ 100,Secondary
+26444HAH4,"DUKE ENERGY FLORIDA, LLC                                        ",A1/A,-/-,2.5,Fixed,2029-12-01,C 9/29@ 100,Secondary
+50540RAW2,LABORATORY CORP OF AMERICA HOLDINGS                             ,Baa2/BBB,-/-,2.95,Fixed,2029-12-01,C 9/29@ 100,Secondary
+29736RAP5,THE ESTEE LAUDER COMPANIES INC.                                 ,A1/A+,-/-,2.375,Fixed,2029-12-01,C 9/29@ 100,Secondary
+695156AU3,PACKAGING CORPORATION OF AMERICA                                ,Baa2/BBB,-/-,3.0,Fixed,2029-12-15,C 9/29@ 100,Secondary
+24422EVD8,JOHN DEERE CAPITAL CORPORATION                                  ,A2/A,-/-,2.45,Fixed,2030-01-09,,Secondary
+90265EAQ3,UDR INC                                                         ,Baa1/BBB+,-/-,3.2,Fixed,2030-01-15,C 10/29@ 100,Secondary
+534187BJ7,LINCOLN NATIONAL CORPORATION                                    ,Baa1/A-,-/-,3.05,Fixed,2030-01-15,C 10/29@ 100,Secondary
+42250PAA1,HEALTHPEAK PROPERTIES INC                                       ,Baa1/BBB+,-/-,3.0,Fixed,2030-01-15,C 10/29@ 100,Secondary
+92277GAU1,VENTAS REALTY L.P./VENTAS CAPITAL CORP.                         ,Baa1/BBB+,-/-,3.0,Fixed,2030-01-15,C 10/29@ 100,Secondary
+29717PAU1,ESSEX PORTFOLIO LP                                              ,Baa1/BBB+,-/-,3.0,Fixed,2030-01-15,C 10/29@ 100,Secondary
+693475AZ8,PNC FINANCIAL SERVICES GROUP INC                                ,A3/A-,-/-,2.55,Fixed,2030-01-22,C 10/29@ 100,Secondary
+857477BG7,STATE STREET CORPORATION                                        ,A1/A,-/-,2.4,Fixed,2030-01-24,,Secondary
+29379VBX0,ENTERPRISE PRODUCTS OPERATING LLC                               ,Baa1/BBB+,-/-,2.8,Fixed,2030-01-31,C 10/29@ 100,Secondary
+842434CU4,SOUTHERN CALIFORNIA GAS COMPANY                                 ,Aa3/A+,-/-,2.55,Fixed,2030-02-01,C 11/29@ 100,Secondary
+26442CBA1,DUKE ENERGY CAROLINAS  LLC                                      ,Aa3/A,-/-,2.45,Fixed,2030-02-01,C 11/29@ 100,Secondary
+20030NDA6,COMCAST CORPORATION                                             ,A3/A-,-/-,2.65,Fixed,2030-02-01,C 11/29@ 100,Secondary
+00724PAD1,ADOBE INC                                                       ,A2/A+,-/-,2.3,Fixed,2030-02-01,C 11/29@ 100,Secondary
+446150AS3,HUNTINGTON BANCSHARES INCORPORATED                              ,Baa1/BBB+,-/-,2.55,Fixed,2030-02-04,C 11/29@ 100,Secondary
+907818FH6,UNION PACIFIC CORPORATION                                       ,Baa1/A-,-/-,2.4,Fixed,2030-02-05,C 11/29@ 100,Secondary
+38141GXG4,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,2.6,Fixed,2030-02-07,C 11/29@ 100,Secondary
+68902VAK3,OTIS WORLDWIDE CORPORATION                                      ,Baa2/BBB,-/-,2.565,Fixed,2030-02-15,C 11/29@ 100,Secondary
+26884ABM4,ERP OPERATING LIMITED PARTNERSHIP                               ,A3/A-,-/-,2.5,Fixed,2030-02-15,C 11/29@ 100,Secondary
+49427RAP7,KILROY REALTY L.P.                                              ,Baa2/BBB,-/-,3.05,Fixed,2030-02-15,C 11/29@ 100,Secondary
+87612EBJ4,TARGET CORPORATION                                              ,A2/A,-/-,2.35,Fixed,2030-02-15,C 11/29@ 100,Secondary
+032095AJ0,AMPHENOL CORPORATION                                            ,Baa1/BBB+,-/-,2.8,Fixed,2030-02-15,C 11/29@ 100,Secondary
+031162CU2,AMGEN INC.                                                      ,Baa1/A-,-/-,2.45,Fixed,2030-02-21,C 11/29@ 100,Secondary
+05348EBG3,"AVALONBAY COMMUNITIES, INC.                                     ",A3/A-,-/-,2.3,Fixed,2030-03-01,C 12/29@ 100,Secondary
+58013MFM1,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,2.125,Fixed,2030-03-01,C 12/29@ 100,Secondary
+23338VAK2,DTE ELECTRIC COMPANY                                            ,Aa3/A,-/-,2.25,Fixed,2030-03-01,C 12/29@ 100,Secondary
+202795JR2,COMMONWEALTH EDISON COMPANY                                     ,A1/A,-/-,2.2,Fixed,2030-03-01,C 12/29@ 100,Secondary
+760759AV2,"REPUBLIC SERVICES, INC.                                         ",Baa2/BBB+,-/-,2.3,Fixed,2030-03-01,C 12/29@ 100,Secondary
+278642AW3,EBAY INC.                                                       ,Baa1/BBB+,-/-,2.7,Fixed,2030-03-11,C 12/29@ 100,Secondary
+832696AS7,J.M. SMUCKER COMPANY                                            ,Baa2/BBB,-/-,2.375,Fixed,2030-03-15,C 12/29@ 100,Secondary
+38141GXH2,"GOLDMAN SACHS GROUP, INC.                                       ",A2/BBB+,-/-,3.8,Fixed,2030-03-15,C 12/29@ 100,Secondary
+10112RBC7,BOSTON PROPERTIES LIMITED PARTNERSHIP                           ,Baa1/BBB+,-/-,2.9,Fixed,2030-03-15,C 12/29@ 100,Secondary
+854502AL5,THE STANLEY WORKS                                               ,Baa1/A,-/-,2.3,Fixed,2030-03-15,C 12/29@ 100,Secondary
+92343VFE9,VERIZON COMMUNICATIONS INC.                                     ,Baa1/BBB+,-/-,3.15,Fixed,2030-03-22,C 12/29@ 100,Secondary
+191216CT5,THE COCA-COLA COMPANY                                           ,A1/A+,-/-,3.45,Fixed,2030-03-25,,Secondary
+742718FH7,THE PROCTER & GAMBLE COMPANY                                    ,Aa3/AA-,-/-,3.0,Fixed,2030-03-25,,Secondary
+494368CB7,KIMBERLY-CLARK CORPORATION                                      ,A2/A,-/-,3.1,Fixed,2030-03-26,C 12/29@ 100,Secondary
+743315AW3,THE PROGRESSIVE CORPORATION                                     ,A2/A,-/-,3.2,Fixed,2030-03-26,C 12/29@ 100,Secondary
+57636QAP9,MASTERCARD INCORPORATED                                         ,A1/A+,-/-,3.35,Fixed,2030-03-26,C 12/29@ 100,Secondary
+039482AB0,ARCHER-DANIELS-MIDLAND COMPANY                                  ,A2/A,-/-,3.25,Fixed,2030-03-27,C 12/29@ 100,Secondary
+654106AK9,"NIKE, INC.                                                      ",A1/AA-,-/-,2.85,Fixed,2030-03-27,C 12/29@ 100,Secondary
+001055BJ0,AFLAC INCORPORATED                                              ,A3/A-,-/-,3.6,Fixed,2030-04-01,C 1/30@ 100,Secondary
+67066GAF1,NVIDIA CORP                                                     ,A2/A-,-/-,2.85,Fixed,2030-04-01,C 1/30@ 100,Secondary
+20030NDG3,COMCAST CORPORATION                                             ,A3/A-,-/-,3.4,Fixed,2030-04-01,C 1/30@ 100,Secondary
+68389XBV6,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,2.95,Fixed,2030-04-01,C 1/30@ 100,Secondary
+126650DJ6,CVS HEALTH CORP                                                 ,Baa2/BBB,-/-,3.75,Fixed,2030-04-01,C 1/30@ 100,Secondary
+717081EW9,PFIZER INC.                                                     ,A2/A+,-/-,2.625,Fixed,2030-04-01,C 1/30@ 100,Secondary
+209111FX6,"CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.                   ",Baa1/A-,-/-,3.35,Fixed,2030-04-01,C 1/30@ 100,Secondary
+369550BM9,GENERAL DYNAMICS CORPORATION                                    ,A3/A-,-/-,3.625,Fixed,2030-04-01,C 1/30@ 100,Secondary
+256677AG0,DOLLAR GENERAL CORPORATION                                      ,Baa2/BBB,-/-,3.5,Fixed,2030-04-03,C 1/30@ 100,Secondary
+35137LAL9,FOX CORPORATION                                                 ,Baa2/BBB,-/-,3.5,Fixed,2030-04-08,C 1/30@ 100,Secondary
+149123CH2,CATERPILLAR INC                                                 ,A2/A,-/-,2.6,Fixed,2030-04-09,C 1/30@ 100,Secondary
+609207AT2,"MONDELEZ INTERNATIONAL, INC.  ",Baa1/BBB,-/-,2.75,Fixed,2030-04-13,C 1/30@ 100,Secondary
+92826CAM4,VISA INC                                                        ,Aa3/AA-,-/-,2.05,Fixed,2030-04-15,C 1/30@ 100,Secondary
+579780AQ0,"MCCORMICK & COMPANY, INCORPORATED                               ",Baa2/BBB,-/-,2.5,Fixed,2030-04-15,C 1/30@ 100,Secondary
+74340XBM2,"PROLOGIS, L.P.                                                  ",A3/A-,-/-,2.25,Fixed,2030-04-15,C 1/30@ 100,Secondary
+244199BJ3,DEERE & COMPANY                                                 ,A2/A,-/-,3.1,Fixed,2030-04-15,C 1/30@ 100,Secondary
+931427AS7,"WALGREENS BOOTS ALLIANCE, INC.                                  ",Baa2/BBB,-/-,3.2,Fixed,2030-04-15,C 1/30@ 100,Secondary
+962166BY9,WEYERHAEUSER COMPANY                                            ,Baa2/BBB,-/-,4.0,Fixed,2030-04-15,C 1/30@ 100,Secondary
+29736RAQ3,THE ESTEE LAUDER COMPANIES INC.                                 ,A1/A+,-/-,2.6,Fixed,2030-04-15,C 1/30@ 100,Secondary
+370334CL6,"GENERAL MILLS, INC.                                             ",Baa2/BBB,-/-,2.875,Fixed,2030-04-15,C 1/30@ 100,Secondary
+88579YBN0,3M COMPANY                                                      ,A1/A+,-/-,3.05,Fixed,2030-04-15,C 1/30@ 100,Secondary
+437076CB6,"THE HOME DEPOT, INC.                                            ",A2/A,-/-,2.7,Fixed,2030-04-15,C 1/30@ 100,Secondary
+918204BC1,V.F. CORPORATION                                                ,Baa1/A-,-/-,2.95,Fixed,2030-04-23,C 1/30@ 100,Secondary
+681919BB1,OMNICOM GROUP INC                                               ,Baa1/BBB+,-/-,2.45,Fixed,2030-04-30,C 1/30@ 100,Secondary
+842587DE4,SOUTHERN COMPANY                                                ,Baa2/BBB,-/-,3.7,Fixed,2030-04-30,C 1/30@ 100,Secondary
+053611AK5,AVERY DENNISON CORPORATION                                      ,Baa2/BBB,-/-,2.65,Fixed,2030-04-30,C 1/30@ 100,Secondary
+09247XAQ4,"BLACKROCK, INC.                                                 ",Aa3/AA-,-/-,2.4,Fixed,2030-04-30,C 1/30@ 100,Secondary
+718172CP2,PHILIP MORRIS INTERNATIONAL INC.                                ,A2/A,-/-,2.1,Fixed,2030-05-01,C 2/30@ 100,Secondary
+45167RAG9,IDEX CORPORATION                                                ,Baa2/BBB,-/-,3.0,Fixed,2030-05-01,C 2/30@ 100,Secondary
+09062XAH6,BIOGEN INC                                                      ,Baa1/BBB+,-/-,2.25,Fixed,2030-05-01,C 2/30@ 100,Secondary
+49271VAJ9,KEURIG DR PEPPER INC                                            ,Baa2/BBB,-/-,3.2,Fixed,2030-05-01,C 2/30@ 100,Secondary
+501044DP3,THE KROGER CO.                                                  ,Baa1/BBB,-/-,2.2,Fixed,2030-05-01,C 2/30@ 100,Secondary
+03040WAW5,AMERICAN WATER CAPITAL CORP                                     ,Baa1/A,-/-,2.8,Fixed,2030-05-01,C 2/30@ 100,Secondary
+02209SBJ1,"ALTRIA GROUP, INC.                                              ",A3/BBB,-/-,3.4,Fixed,2030-05-06,C 2/30@ 100,Secondary
+91324PDX7,UNITED HEALTH GROUP INCORPORATED                                ,A3/A+,-/-,2.0,Fixed,2030-05-15,,Secondary
+62944TAF2,NVR INC                                                         ,Baa1/BBB+,-/-,3.0,Fixed,2030-05-15,C 11/29@ 100,Secondary
+294429AS4,EQUIFAX INC.                                                    ,Baa2/BBB,-/-,3.1,Fixed,2030-05-15,C 2/30@ 100,Secondary
+893574AP8,"TRANSCONTINENTAL GAS PIPE LINE COMPANY, LLC                     ",Baa1/BBB,-/-,3.25,Fixed,2030-05-15,C 2/30@ 100,Secondary
+824348BL9,THE SHERWIN-WILLIAMS COMPANY                                    ,Baa2/BBB,-/-,2.3,Fixed,2030-05-15,C 2/30@ 100,Secondary
+017175AE0,ALLEGHANY CORP                                                  ,Baa1/BBB+,-/-,3.625,Fixed,2030-05-15,C 2/30@ 100,Secondary
+009158BC9,"AIR PRODUCTS & CHEMICALS, INC.                                  ",A2/A,-/-,2.05,Fixed,2030-05-15,C 2/30@ 100,Secondary
+68389XBD6,ORACLE CORPORATION                                              ,Baa2/BBB+,-/-,3.25,Fixed,2030-05-15,C 2/30@ 100,Secondary
+036752AN3,ANTHEM INC                                                      ,Baa2/A,-/-,2.25,Fixed,2030-05-15,C 2/30@ 100,Secondary
+037389BE2,AON CORPORATION                                                 ,Baa2/A-,-/-,2.8,Fixed,2030-05-15,C 2/30@ 100,Secondary
+608190AL8,"MOHAWK INDUSTRIES, INC.                                         ",Baa1/BBB+,-/-,3.625,Fixed,2030-05-15,C 2/30@ 100,Secondary
+133131AZ5,CAMDEN PROPERTY TRUST                                           ,A3/A-,-/-,2.8,Fixed,2030-05-15,C 2/30@ 100,Secondary
+98978VAS2,ZOETIS INC.                                                     ,Baa1/BBB,-/-,2.0,Fixed,2030-05-15,C 2/30@ 100,Secondary
+747525BK8,QUALCOMM INCORPORATED                                           ,A2/A,-/-,2.15,Fixed,2030-05-20,C 2/30@ 100,Secondary
+70450YAH6,PAYPAL HOLDINGS INCORPORATION                                   ,A3/A-,-/-,2.3,Fixed,2030-06-01,C 3/30@ 100,Secondary
+670346AS4,NUCOR CORPORATION                                               ,Baa1/A-,-/-,2.7,Fixed,2030-06-01,C 3/30@ 100,Secondary
+337738BC1,FISERV INC.                                                     ,Baa2/BBB,-/-,2.65,Fixed,2030-06-01,C 3/30@ 100,Secondary
+313747BA4,FEDERAL REALTY INVESTMENT TRUST                                 ,Baa1/A-,-/-,3.5,Fixed,2030-06-01,C 3/30@ 100,Secondary
+842400GU1,SOUTHERN CALIFORNIA EDISON COMPANY                              ,A3/A-,-/-,2.25,Fixed,2030-06-01,C 3/30@ 100,Secondary
+929160AZ2,VULCAN MATERIALS COMPANY                                        ,Baa2/BBB+,-/-,3.5,Fixed,2030-06-01,C 3/30@ 100,Secondary
+487836BX5,KELLOGG COMPANY                                                 ,Baa2/BBB,-/-,2.1,Fixed,2030-06-01,C 3/30@ 100,Secondary
+26441CBH7,DUKE ENERGY CORP                                                ,Baa2/BBB,-/-,2.45,Fixed,2030-06-01,C 3/30@ 100,Secondary
+559080AQ9,MAGELLAN MIDSTREAM PARTNERS LP                                  ,Baa1/BBB+,-/-,3.25,Fixed,2030-06-01,C 3/30@ 100,Secondary
+65339KBR0,NEXTERA ENERGY CAPITAL HLDGS INC                                ,Baa1/BBB+,-/-,2.25,Fixed,2030-06-01,C 3/30@ 100,Secondary
+26442EAH3,THE CINCINNATI GAS & ELECTRIC COMPANY                           ,A2/A,-/-,2.125,Fixed,2030-06-01,C 3/30@ 100,Secondary
+883203CB5,TEXTRON INC.                                                    ,Baa2/BBB,-/-,3.0,Fixed,2030-06-01,C 3/30@ 100,Secondary
+00846UAM3,AGILENT TECHNOLOGIES INC.                                       ,Baa2/BBB+,-/-,2.1,Fixed,2030-06-04,C 3/30@ 100,Secondary
+78486QAE1,SVB FINANCIAL GROUP                                             ,A3/BBB,-/-,3.125,Fixed,2030-06-05,C 3/30@ 100,Secondary
+45866FAK0,INTERCONTINENTAL EXCHANGE INC                                   ,A3/A-,-/-,2.1,Fixed,2030-06-15,C 3/30@ 100,Secondary
+31620RAJ4,"FIDELITY NATIONAL FINANCIAL, INC.                               ",Baa2/BBB,-/-,3.4,Fixed,2030-06-15,C 3/30@ 100,Secondary
+74251VAS1,PRINCIPAL FINANCIAL GROUP                                       ,Baa1/A-,-/-,2.125,Fixed,2030-06-15,C 3/30@ 100,Secondary
+29364GAL7,ENTERGY CORPORATION                                             ,Baa2/BBB,-/-,2.8,Fixed,2030-06-15,C 3/30@ 100,Secondary
+75884RBA0,"REGENCY CENTERS, L.P.                                           ",Baa1/BBB+,-/-,3.7,Fixed,2030-06-15,C 3/30@ 100,Secondary
+40434LAC9,HP INC                                                          ,Baa2/BBB,-/-,3.4,Fixed,2030-06-17,C 3/30@ 100,Secondary
+081437AT2,BEMIS COMPANY INC.                                              ,Baa2/BBB,-/-,2.63,Fixed,2030-06-19,C 3/30@ 100,Secondary
+64110DAK0,NETAPP INC.                                                     ,Baa2/BBB+,-/-,2.7,Fixed,2030-06-22,C 3/30@ 100,Secondary
+74834LBB5,QUEST DIAGNOSTICS INCORPORATED                                  ,Baa2/BBB+,-/-,2.95,Fixed,2030-06-30,C 3/30@ 100,Secondary
+776743AJ5,ROPER TECHNOLOGIES INC                                          ,Baa2/BBB+,-/-,2.0,Fixed,2030-06-30,C 3/30@ 100,Secondary
+58013MFQ2,MCDONALD'S CORPORATION                                          ,Baa1/BBB+,-/-,3.6,Fixed,2030-07-01,C 4/30@ 100,Secondary
+00108WAM2,AEP TEXAS INC                                                   ,Baa2/A-,-/-,2.1,Fixed,2030-07-01,C 4/30@ 100,Secondary
+263534CP2,E.I. DU PONT DE NEMOURS AND COMPANY                             ,A3/A-,-/-,2.3,Fixed,2030-07-15,C 4/30@ 100,Secondary
+828807DK0,"SIMON PROPERTY GROUP, L.P.                                      ",A3/A-,-/-,2.65,Fixed,2030-07-15,C 4/30@ 100,Secondary
+084659AV3,BERKSHIRE HATHAWAY ENERGY COMPANY                               ,A3/A-,-/-,3.7,Fixed,2030-07-15,C 4/30@ 100,Secondary
+759509AG7,RELIANCE STEEL & ALUMINUM CO.                                   ,Baa2/BBB,-/-,2.15,Fixed,2030-08-15,C 5/30@ 100,Secondary
+37959EAA0,GLOBE LIFE INC                                                  ,Baa1/A,-/-,2.15,Fixed,2030-08-15,C 5/30@ 100,Secondary
+87612EBK1,TARGET CORPORATION                                              ,A2/A,-/-,2.65,Fixed,2030-09-15,C 6/30@ 100,Secondary
+574599BP0,MASCO CORPORATION                                               ,Baa2/BBB,-/-,2.0,Fixed,2030-10-01,C 7/30@ 100,Secondary
+651639AY2,NEWMONT CORPORATION                                             ,Baa1/BBB,-/-,2.25,Fixed,2030-10-01,C 7/30@ 100,Secondary
+50249AAG8,LYB INTERNATIONAL FINANCE III LLC                               ,Baa2/BBB,-/-,2.25,Fixed,2030-10-01,C 7/30@ 100,Secondary
+49446RAW9,KIMCO REALTY CORPORATION                                        ,Baa1/BBB+,-/-,2.7,Fixed,2030-10-01,C 7/30@ 100,Secondary
+260543DC4,THE DOW CHEMICAL COMPANY                                        ,Baa2/BBB,-/-,2.1,Fixed,2030-11-15,C 8/30@ 100,Secondary
+571748BN1,"MARSH & MCLENNAN COMPANIES, INC.                                ",Baa1/A-,-/-,2.25,Fixed,2030-11-15,C 8/30@ 100,Secondary
+855244AZ2,STARBUCKS CORPORATION                                           ,Baa1/BBB+,-/-,2.55,Fixed,2030-11-15,C 8/30@ 100,Secondary
+969457BX7,"THE WILLIAMS COMPANIES, INC.                                    ",Baa2/BBB,-/-,3.5,Fixed,2030-11-15,C 8/30@ 100,Secondary
+48203RAP9,JUNIPER NETWORKS                                                ,Baa2/BBB,-/-,2.0,Fixed,2030-12-10,C 9/30@ 100,Secondary
